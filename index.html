@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI: De 0 a Experto - Curso Completo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #1B2951;
+            color: white;
+            line-height: 1.6;
+        }
+        
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(135deg, #1B2951 0%, #2A3F5F 100%);
+        }
+        
+        .hero h1 {
+            font-size: 3.5rem;
+            color: #F2C811;
+            margin-bottom: 20px;
+            animation: fadeInUp 1s ease;
+        }
+        
+        .hero .subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 30px;
+            color: #00D4AA;
+            animation: fadeInUp 1s ease 0.2s;
+            animation-fill-mode: both;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+            max-width: 800px;
+            animation: fadeInUp 1s ease 0.4s;
+            animation-fill-mode: both;
+        }
+        
+        .feature {
+            background: rgba(42, 63, 95, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #F2C811;
+        }
+        
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #F2C811, #FFD93D);
+            color: #1B2951;
+            padding: 15px 40px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            animation: fadeInUp 1s ease 0.6s;
+            animation-fill-mode: both;
+            margin-top: 20px;
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(242, 200, 17, 0.4);
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .modules-section {
+            padding: 80px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .modules-title {
+            text-align: center;
+            font-size: 2.5rem;
+            color: #F2C811;
+            margin-bottom: 50px;
+        }
+        
+        .modules-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        
+        .module-card {
+            background: #2A3F5F;
+            border-radius: 15px;
+            padding: 30px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .module-card:hover {
+            border-color: #F2C811;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .module-number {
+            background: #F2C811;
+            color: #1B2951;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .module-title {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #F2C811;
+        }
+        
+        .module-description {
+            color: #999;
+            margin-bottom: 20px;
+        }
+        
+        .module-link {
+            color: #00D4AA;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: gap 0.3s ease;
+        }
+        
+        .module-link:hover {
+            gap: 15px;
+        }
+        
+        .module-status {
+            display: inline-block;
+            padding: 5px 15px;
+            background: #00D4AA;
+            color: #1B2951;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        
+        .module-locked {
+            opacity: 0.5;
+            pointer-events: none;
+        }
+        
+        .module-locked .module-status {
+            background: #666;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>⚡ Power BI: De 0 a Experto</h1>
+        <p class="subtitle">El curso más completo en español para dominar Business Intelligence</p>
+        
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">🎯</div>
+                <h3>100% Práctico</h3>
+                <p>Ejercicios reales desde el día 1</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📊</div>
+                <h3>7 Módulos</h3>
+                <p>De fundamentos a nivel experto</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🏆</div>
+                <h3>Proyecto Final</h3>
+                <p>Dashboard profesional completo</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🎓</div>
+                <h3>Certificado</h3>
+                <p>Al completar el curso</p>
+            </div>
+        </div>
+        
+        <a href="#modulos" class="cta-button">🚀 Ver Módulos del Curso</a>
+    </section>
+    
+    <!-- Modules Section -->
+    <section class="modules-section" id="modulos">
+        <h2 class="modules-title">📚 Módulos del Curso</h2>
+        
+        <div class="modules-grid">
+            <!-- Módulo 1 -->
+            <div class="module-card">
+                <div class="module-number">1</div>
+                <h3 class="module-title">Fundamentos de Power BI</h3>
+                <p class="module-description">
+                    Conecta, transforma y visualiza tus primeros datos. 
+                    Aprende las bases esenciales de Power BI Desktop.
+                </p>
+                <a href="modulos/modulo1/index.html" class="module-link">
+                    Comenzar módulo →
+                </a>
+                <div class="module-status">Disponible</div>
+            </div>
+            
+            <!-- Módulo 2 -->
+            <div class="module-card module-locked">
+                <div class="module-number">2</div>
+                <h3 class="module-title">Transformación de Datos</h3>
+                <p class="module-description">
+                    Domina Power Query Editor para limpiar y transformar 
+                    datos complejos de múltiples fuentes.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Módulo 3 -->
+            <div class="module-card module-locked">
+                <div class="module-number">3</div>
+                <h3 class="module-title">Modelado de Datos</h3>
+                <p class="module-description">
+                    Crea modelos de datos eficientes con relaciones, 
+                    jerarquías y mejores prácticas.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Módulo 4 -->
+            <div class="module-card module-locked">
+                <div class="module-number">4</div>
+                <h3 class="module-title">DAX Básico</h3>
+                <p class="module-description">
+                    Aprende las fórmulas DAX esenciales para crear 
+                    medidas y cálculos dinámicos.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Módulo 5 -->
+            <div class="module-card module-locked">
+                <div class="module-number">5</div>
+                <h3 class="module-title">Visualizaciones Avanzadas</h3>
+                <p class="module-description">
+                    Crea dashboards profesionales con las mejores 
+                    prácticas de diseño y UX.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Módulo 6 -->
+            <div class="module-card module-locked">
+                <div class="module-number">6</div>
+                <h3 class="module-title">DAX Avanzado</h3>
+                <p class="module-description">
+                    Funciones complejas, time intelligence y 
+                    optimización de rendimiento.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Módulo 7 -->
+            <div class="module-card module-locked">
+                <div class="module-number">7</div>
+                <h3 class="module-title">Power BI Service</h3>
+                <p class="module-description">
+                    Publica, comparte y colabora. Configuración de 
+                    gateways y actualización automática.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Bloqueado</div>
+            </div>
+            
+            <!-- Proyecto Final -->
+            <div class="module-card module-locked" style="grid-column: span 1;">
+                <div class="module-number">🏆</div>
+                <h3 class="module-title">Proyecto Final</h3>
+                <p class="module-description">
+                    Aplica todo lo aprendido en un proyecto real 
+                    completo de principio a fin.
+                </p>
+                <a href="#" class="module-link">
+                    Próximamente →
+                </a>
+                <div class="module-status">Requiere 70% completado</div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

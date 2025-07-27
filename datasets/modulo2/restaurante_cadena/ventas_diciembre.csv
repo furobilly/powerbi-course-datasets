@@ -1,0 +1,251 @@
+ID_Venta,Fecha,Sucursal,Categoría,Producto,Cantidad,Precio_Unitario,Total
+DIC0001,2023-12-12,Oeste,Postre,Brownie,4,87.97,351.88
+DIC0002,2023-12-08,Sur,Postre,Pastel,1,187.96,187.96
+DIC0003,2023-12-19,Oeste,Comida,Pasta,5,243.85,1219.25
+DIC0004,2023-12-21,Norte,Postre,Brownie,3,116.27,348.81
+DIC0005,2023-12-06,Sur,Comida,Hamburguesa,3,228.13,684.39
+DIC0006,2023-12-08,Este,Entrada,Nachos,5,78.52,392.6
+DIC0007,2023-12-26,Este,Entrada,Pan de ajo,3,223.62,670.86
+DIC0008,2023-12-20,Este,Bebida,Refresco,1,75.32,75.32
+DIC0009,2023-12-06,Centro,Bebida,Cerveza,1,215.54,215.54
+DIC0010,2023-12-20,Sur,Comida,Pizza,1,152.32,152.32
+DIC0011,2023-12-29,Centro,Entrada,Pan de ajo,4,90.96,363.84
+DIC0012,2023-12-13,Sur,Comida,Pizza,2,141.97,283.94
+DIC0013,2023-12-24,Oeste,Comida,Tacos,5,218.5,1092.5
+DIC0014,2023-12-16,Sur,Postre,Helado,5,153.23,766.15
+DIC0015,2023-12-13,Sur,Postre,Pastel,1,159.61,159.61
+DIC0016,2023-12-20,Norte,Entrada,Pan de ajo,3,190.84,572.52
+DIC0017,2023-12-18,Oeste,Postre,Brownie,2,58.19,116.38
+DIC0018,2023-12-01,Este,Postre,Pastel,4,240.61,962.44
+DIC0019,2023-12-14,Norte,Bebida,Refresco,3,210.42,631.26
+DIC0020,2023-12-25,Sur,Bebida,Café,5,138.55,692.75
+DIC0021,2023-12-06,Sur,Entrada,Pan de ajo,4,146.32,585.28
+DIC0022,2023-12-29,Norte,Entrada,Pan de ajo,5,175.38,876.9
+DIC0023,2023-12-02,Oeste,Postre,Helado,2,221.98,443.96
+DIC0024,2023-12-09,Oeste,Bebida,Té,1,228.24,228.24
+DIC0025,2023-12-18,Centro,Bebida,Cerveza,2,84.0,168.0
+DIC0026,2023-12-06,Oeste,Entrada,Pan de ajo,4,143.13,572.52
+DIC0027,2023-12-05,Este,Postre,Brownie,4,136.69,546.76
+DIC0028,2023-12-28,Sur,Comida,Pasta,3,238.8,716.4
+DIC0029,2023-12-26,Oeste,Bebida,Café,3,244.18,732.54
+DIC0030,2023-12-13,Norte,Postre,Brownie,1,103.64,103.64
+DIC0031,2023-12-13,Sur,Postre,Helado,4,47.86,191.44
+DIC0032,2023-12-22,Oeste,Postre,Flan,2,161.93,323.86
+DIC0033,2023-12-07,Sur,Entrada,Aros de cebolla,4,148.24,592.96
+DIC0034,2023-12-07,Oeste,Comida,Hamburguesa,3,185.27,555.81
+DIC0035,2023-12-29,Este,Entrada,Pan de ajo,2,225.21,450.42
+DIC0036,2023-12-21,Oeste,Entrada,Aros de cebolla,1,197.33,197.33
+DIC0037,2023-12-18,Sur,Entrada,Aros de cebolla,2,86.58,173.16
+DIC0038,2023-12-15,Sur,Entrada,Aros de cebolla,1,203.17,203.17
+DIC0039,2023-12-23,Este,Entrada,Aros de cebolla,5,225.08,1125.4
+DIC0040,2023-12-24,Centro,Entrada,Pan de ajo,2,161.75,323.5
+DIC0041,2023-12-14,Oeste,Comida,Pasta,3,240.19,720.57
+DIC0042,2023-12-08,Norte,Bebida,Refresco,4,213.72,854.88
+DIC0043,2023-12-08,Oeste,Comida,Hamburguesa,3,196.89,590.67
+DIC0044,2023-12-02,Sur,Entrada,Pan de ajo,2,170.65,341.3
+DIC0045,2023-12-27,Norte,Bebida,Cerveza,5,145.35,726.75
+DIC0046,2023-12-18,Oeste,Postre,Helado,4,135.51,542.04
+DIC0047,2023-12-19,Este,Comida,Pasta,3,168.25,504.75
+DIC0048,2023-12-02,Centro,Comida,Hamburguesa,5,206.98,1034.9
+DIC0049,2023-12-02,Sur,Postre,Pastel,2,204.6,409.2
+DIC0050,2023-12-05,Norte,Comida,Hamburguesa,3,214.47,643.41
+DIC0051,2023-12-09,Este,Entrada,Pan de ajo,5,83.24,416.2
+DIC0052,2023-12-07,Sur,Entrada,Pan de ajo,3,136.91,410.73
+DIC0053,2023-12-15,Sur,Postre,Flan,1,121.7,121.7
+DIC0054,2023-12-22,Centro,Bebida,Té,4,63.93,255.72
+DIC0055,2023-12-04,Norte,Entrada,Aros de cebolla,4,218.27,873.08
+DIC0056,2023-12-07,Norte,Entrada,Nachos,3,40.58,121.74
+DIC0057,2023-12-23,Oeste,Entrada,Pan de ajo,3,217.56,652.68
+DIC0058,2023-12-22,Oeste,Comida,Hamburguesa,2,161.85,323.7
+DIC0059,2023-12-25,Oeste,Postre,Brownie,2,127.78,255.56
+DIC0060,2023-12-19,Sur,Postre,Pastel,1,67.56,67.56
+DIC0061,2023-12-27,Este,Postre,Helado,1,152.56,152.56
+DIC0062,2023-12-07,Norte,Entrada,Aros de cebolla,5,222.45,1112.25
+DIC0063,2023-12-20,Sur,Comida,Pizza,4,114.98,459.92
+DIC0064,2023-12-13,Oeste,Bebida,Té,4,111.57,446.28
+DIC0065,2023-12-22,Este,Postre,Flan,1,194.65,194.65
+DIC0066,2023-12-17,Oeste,Comida,Ensalada,1,212.63,212.63
+DIC0067,2023-12-08,Este,Comida,Pasta,4,141.07,564.28
+DIC0068,2023-12-15,Sur,Postre,Flan,5,45.07,225.35
+DIC0069,2023-12-27,Norte,Postre,Pastel,5,204.56,1022.8
+DIC0070,2023-12-08,Sur,Postre,Helado,4,177.88,711.52
+DIC0071,2023-12-06,Oeste,Bebida,Té,2,197.05,394.1
+DIC0072,2023-12-07,Este,Postre,Brownie,4,89.86,359.44
+DIC0073,2023-12-20,Centro,Postre,Brownie,5,201.63,1008.15
+DIC0074,2023-12-15,Oeste,Entrada,Nachos,3,109.56,328.68
+DIC0075,2023-12-09,Norte,Postre,Helado,3,170.5,511.5
+DIC0076,2023-12-21,Centro,Entrada,Pan de ajo,4,133.57,534.28
+DIC0077,2023-12-09,Norte,Postre,Brownie,2,206.15,412.3
+DIC0078,2023-12-10,Centro,Comida,Pasta,5,88.44,442.2
+DIC0079,2023-12-21,Sur,Entrada,Aros de cebolla,2,238.25,476.5
+DIC0080,2023-12-28,Este,Comida,Tacos,5,76.31,381.55
+DIC0081,2023-12-21,Centro,Entrada,Nachos,1,248.7,248.7
+DIC0082,2023-12-14,Este,Comida,Tacos,4,171.56,686.24
+DIC0083,2023-12-28,Norte,Bebida,Agua,3,165.2,495.6
+DIC0084,2023-12-29,Norte,Comida,Tacos,4,182.73,730.92
+DIC0085,2023-12-08,Oeste,Bebida,Agua,4,237.37,949.48
+DIC0086,2023-12-29,Sur,Postre,Brownie,2,86.0,172.0
+DIC0087,2023-12-19,Oeste,Postre,Brownie,4,97.98,391.92
+DIC0088,2023-12-10,Sur,Postre,Flan,5,132.87,664.35
+DIC0089,2023-12-03,Sur,Bebida,Cerveza,5,219.35,1096.75
+DIC0090,2023-12-26,Sur,Postre,Flan,5,151.59,757.95
+DIC0091,2023-12-05,Sur,Entrada,Pan de ajo,4,161.52,646.08
+DIC0092,2023-12-01,Oeste,Comida,Ensalada,2,118.54,237.08
+DIC0093,2023-12-04,Norte,Postre,Pastel,4,200.87,803.48
+DIC0094,2023-12-11,Este,Bebida,Cerveza,3,193.17,579.51
+DIC0095,2023-12-24,Sur,Comida,Tacos,1,34.01,34.01
+DIC0096,2023-12-23,Centro,Entrada,Pan de ajo,4,249.36,997.44
+DIC0097,2023-12-25,Norte,Postre,Brownie,4,177.28,709.12
+DIC0098,2023-12-01,Oeste,Postre,Pastel,3,152.31,456.93
+DIC0099,2023-12-28,Este,Postre,Pastel,2,144.0,288.0
+DIC0100,2023-12-15,Centro,Postre,Flan,4,187.05,748.2
+DIC0101,2023-12-29,Este,Comida,Ensalada,5,35.59,177.95
+DIC0102,2023-12-08,Oeste,Comida,Hamburguesa,3,47.12,141.36
+DIC0103,2023-12-06,Centro,Comida,Hamburguesa,4,196.76,787.04
+DIC0104,2023-12-18,Oeste,Entrada,Aros de cebolla,3,156.01,468.03
+DIC0105,2023-12-24,Norte,Comida,Ensalada,5,149.46,747.3
+DIC0106,2023-12-16,Norte,Postre,Flan,4,179.58,718.32
+DIC0107,2023-12-07,Oeste,Comida,Tacos,2,157.23,314.46
+DIC0108,2023-12-24,Sur,Entrada,Aros de cebolla,2,118.4,236.8
+DIC0109,2023-12-02,Sur,Bebida,Café,2,137.1,274.2
+DIC0110,2023-12-05,Este,Postre,Brownie,1,40.0,40.0
+DIC0111,2023-12-20,Sur,Bebida,Cerveza,2,147.48,294.96
+DIC0112,2023-12-04,Centro,Comida,Pizza,3,80.71,242.13
+DIC0113,2023-12-09,Norte,Bebida,Té,3,31.61,94.83
+DIC0114,2023-12-06,Norte,Comida,Pasta,3,132.98,398.94
+DIC0115,2023-12-10,Norte,Entrada,Pan de ajo,5,98.15,490.75
+DIC0116,2023-12-25,Sur,Entrada,Aros de cebolla,2,217.23,434.46
+DIC0117,2023-12-14,Este,Entrada,Pan de ajo,5,199.82,999.1
+DIC0118,2023-12-02,Oeste,Entrada,Nachos,3,239.15,717.45
+DIC0119,2023-12-27,Centro,Comida,Pizza,1,184.79,184.79
+DIC0120,2023-12-05,Este,Entrada,Pan de ajo,3,188.6,565.8
+DIC0121,2023-12-26,Oeste,Postre,Helado,1,115.76,115.76
+DIC0122,2023-12-06,Norte,Bebida,Agua,4,69.92,279.68
+DIC0123,2023-12-21,Norte,Entrada,Pan de ajo,1,238.11,238.11
+DIC0124,2023-12-13,Centro,Entrada,Aros de cebolla,1,236.57,236.57
+DIC0125,2023-12-07,Centro,Bebida,Cerveza,2,240.52,481.04
+DIC0126,2023-12-12,Este,Postre,Helado,2,100.9,201.8
+DIC0127,2023-12-16,Oeste,Comida,Hamburguesa,5,158.83,794.15
+DIC0128,2023-12-27,Este,Bebida,Agua,3,208.2,624.6
+DIC0129,2023-12-07,Este,Postre,Brownie,3,242.03,726.09
+DIC0130,2023-12-21,Sur,Postre,Helado,3,69.79,209.37
+DIC0131,2023-12-15,Oeste,Postre,Pastel,1,54.06,54.06
+DIC0132,2023-12-26,Norte,Postre,Pastel,4,77.04,308.16
+DIC0133,2023-12-02,Oeste,Comida,Tacos,2,61.76,123.52
+DIC0134,2023-12-09,Oeste,Comida,Pasta,4,77.61,310.44
+DIC0135,2023-12-15,Este,Postre,Pastel,3,148.15,444.45
+DIC0136,2023-12-06,Norte,Comida,Tacos,2,114.04,228.08
+DIC0137,2023-12-05,Norte,Comida,Hamburguesa,5,87.43,437.15
+DIC0138,2023-12-23,Centro,Bebida,Cerveza,1,101.2,101.2
+DIC0139,2023-12-16,Norte,Comida,Pizza,5,127.44,637.2
+DIC0140,2023-12-23,Este,Entrada,Nachos,5,73.03,365.15
+DIC0141,2023-12-06,Centro,Entrada,Aros de cebolla,4,133.12,532.48
+DIC0142,2023-12-14,Este,Comida,Ensalada,4,175.51,702.04
+DIC0143,2023-12-09,Este,Comida,Pasta,4,82.19,328.76
+DIC0144,2023-12-05,Este,Bebida,Té,4,112.1,448.4
+DIC0145,2023-12-08,Norte,Entrada,Pan de ajo,4,214.43,857.72
+DIC0146,2023-12-17,Oeste,Comida,Ensalada,3,62.4,187.2
+DIC0147,2023-12-01,Centro,Entrada,Pan de ajo,3,40.85,122.55
+DIC0148,2023-12-16,Norte,Entrada,Pan de ajo,2,78.92,157.84
+DIC0149,2023-12-27,Sur,Entrada,Aros de cebolla,4,173.96,695.84
+DIC0150,2023-12-03,Oeste,Entrada,Aros de cebolla,5,95.67,478.35
+DIC0151,2023-12-15,Oeste,Comida,Ensalada,2,38.14,76.28
+DIC0152,2023-12-29,Oeste,Comida,Ensalada,3,202.62,607.86
+DIC0153,2023-12-16,Centro,Comida,Pasta,4,188.25,753.0
+DIC0154,2023-12-04,Oeste,Bebida,Agua,1,58.75,58.75
+DIC0155,2023-12-08,Centro,Entrada,Pan de ajo,5,41.68,208.4
+DIC0156,2023-12-20,Norte,Postre,Pastel,5,71.32,356.6
+DIC0157,2023-12-07,Sur,Entrada,Aros de cebolla,4,239.99,959.96
+DIC0158,2023-12-24,Centro,Bebida,Refresco,2,241.36,482.72
+DIC0159,2023-12-11,Norte,Bebida,Café,3,190.3,570.9
+DIC0160,2023-12-10,Este,Entrada,Nachos,1,60.93,60.93
+DIC0161,2023-12-09,Sur,Comida,Pasta,4,185.72,742.88
+DIC0162,2023-12-27,Norte,Postre,Pastel,5,61.14,305.7
+DIC0163,2023-12-22,Sur,Bebida,Agua,5,149.95,749.75
+DIC0164,2023-12-16,Este,Bebida,Té,1,170.53,170.53
+DIC0165,2023-12-28,Centro,Postre,Brownie,3,82.65,247.95
+DIC0166,2023-12-16,Este,Entrada,Aros de cebolla,3,104.38,313.14
+DIC0167,2023-12-23,Centro,Bebida,Agua,2,56.87,113.74
+DIC0168,2023-12-22,Norte,Postre,Pastel,1,229.62,229.62
+DIC0169,2023-12-14,Sur,Bebida,Cerveza,3,49.09,147.27
+DIC0170,2023-12-06,Sur,Entrada,Pan de ajo,2,157.2,314.4
+DIC0171,2023-12-27,Centro,Entrada,Nachos,4,138.41,553.64
+DIC0172,2023-12-28,Sur,Entrada,Pan de ajo,1,35.9,35.9
+DIC0173,2023-12-16,Oeste,Entrada,Pan de ajo,1,129.42,129.42
+DIC0174,2023-12-12,Centro,Postre,Pastel,4,58.51,234.04
+DIC0175,2023-12-09,Oeste,Postre,Pastel,3,241.9,725.7
+DIC0176,2023-12-11,Norte,Bebida,Té,2,159.93,319.86
+DIC0177,2023-12-25,Oeste,Entrada,Aros de cebolla,1,152.9,152.9
+DIC0178,2023-12-02,Centro,Entrada,Aros de cebolla,4,130.65,522.6
+DIC0179,2023-12-18,Sur,Comida,Ensalada,3,91.56,274.68
+DIC0180,2023-12-11,Centro,Entrada,Pan de ajo,2,169.7,339.4
+DIC0181,2023-12-21,Norte,Entrada,Nachos,2,39.81,79.62
+DIC0182,2023-12-16,Sur,Postre,Brownie,4,194.65,778.6
+DIC0183,2023-12-15,Centro,Entrada,Aros de cebolla,3,248.8,746.4
+DIC0184,2023-12-05,Centro,Comida,Tacos,5,149.43,747.15
+DIC0185,2023-12-05,Centro,Postre,Brownie,2,189.58,379.16
+DIC0186,2023-12-04,Sur,Comida,Tacos,3,115.14,345.42
+DIC0187,2023-12-24,Oeste,Bebida,Café,5,41.32,206.6
+DIC0188,2023-12-29,Centro,Postre,Flan,4,206.6,826.4
+DIC0189,2023-12-23,Este,Comida,Hamburguesa,5,41.27,206.35
+DIC0190,2023-12-27,Sur,Entrada,Aros de cebolla,3,223.84,671.52
+DIC0191,2023-12-28,Oeste,Postre,Brownie,2,105.11,210.22
+DIC0192,2023-12-02,Norte,Entrada,Nachos,5,66.61,333.05
+DIC0193,2023-12-14,Norte,Postre,Flan,1,89.04,89.04
+DIC0194,2023-12-01,Oeste,Comida,Pasta,4,141.64,566.56
+DIC0195,2023-12-18,Este,Postre,Brownie,4,32.51,130.04
+DIC0196,2023-12-27,Norte,Bebida,Café,5,44.89,224.45
+DIC0197,2023-12-19,Este,Entrada,Pan de ajo,5,134.8,674.0
+DIC0198,2023-12-16,Este,Entrada,Aros de cebolla,3,126.59,379.77
+DIC0199,2023-12-10,Norte,Comida,Pizza,4,155.29,621.16
+DIC0200,2023-12-01,Norte,Entrada,Nachos,5,139.34,696.7
+DIC0201,2023-12-28,Centro,Entrada,Nachos,1,177.42,177.42
+DIC0202,2023-12-10,Norte,Entrada,Nachos,1,247.44,247.44
+DIC0203,2023-12-23,Este,Entrada,Nachos,1,71.23,71.23
+DIC0204,2023-12-19,Norte,Bebida,Agua,2,74.38,148.76
+DIC0205,2023-12-02,Oeste,Bebida,Refresco,2,203.31,406.62
+DIC0206,2023-12-10,Este,Bebida,Agua,1,91.58,91.58
+DIC0207,2023-12-24,Norte,Comida,Ensalada,3,154.52,463.56
+DIC0208,2023-12-13,Norte,Comida,Ensalada,2,164.63,329.26
+DIC0209,2023-12-22,Sur,Postre,Brownie,4,148.29,593.16
+DIC0210,2023-12-02,Oeste,Bebida,Té,2,97.21,194.42
+DIC0211,2023-12-08,Centro,Postre,Helado,1,136.13,136.13
+DIC0212,2023-12-28,Sur,Entrada,Aros de cebolla,5,85.84,429.2
+DIC0213,2023-12-01,Norte,Postre,Brownie,3,201.57,604.71
+DIC0214,2023-12-14,Centro,Comida,Hamburguesa,5,241.61,1208.05
+DIC0215,2023-12-09,Norte,Postre,Helado,3,109.66,328.98
+DIC0216,2023-12-23,Este,Comida,Tacos,4,84.47,337.88
+DIC0217,2023-12-27,Este,Postre,Helado,1,110.34,110.34
+DIC0218,2023-12-09,Oeste,Entrada,Pan de ajo,4,146.61,586.44
+DIC0219,2023-12-16,Norte,Entrada,Nachos,1,179.32,179.32
+DIC0220,2023-12-28,Este,Bebida,Cerveza,1,56.92,56.92
+DIC0221,2023-12-23,Oeste,Comida,Hamburguesa,3,166.72,500.16
+DIC0222,2023-12-10,Oeste,Entrada,Aros de cebolla,5,232.95,1164.75
+DIC0223,2023-12-07,Oeste,Bebida,Té,5,208.44,1042.2
+DIC0224,2023-12-21,Este,Entrada,Nachos,5,232.33,1161.65
+DIC0225,2023-12-12,Sur,Bebida,Refresco,2,85.35,170.7
+DIC0226,2023-12-15,Este,Postre,Brownie,1,68.21,68.21
+DIC0227,2023-12-08,Centro,Entrada,Aros de cebolla,4,96.09,384.36
+DIC0228,2023-12-11,Oeste,Bebida,Cerveza,5,197.25,986.25
+DIC0229,2023-12-19,Centro,Comida,Ensalada,3,30.99,92.97
+DIC0230,2023-12-09,Sur,Comida,Pizza,3,145.96,437.88
+DIC0231,2023-12-26,Norte,Comida,Pizza,2,236.58,473.16
+DIC0232,2023-12-28,Sur,Comida,Hamburguesa,4,189.09,756.36
+DIC0233,2023-12-29,Este,Postre,Flan,1,238.37,238.37
+DIC0234,2023-12-07,Centro,Postre,Brownie,1,166.29,166.29
+DIC0235,2023-12-04,Sur,Postre,Brownie,4,121.31,485.24
+DIC0236,2023-12-04,Oeste,Comida,Hamburguesa,4,108.21,432.84
+DIC0237,2023-12-22,Norte,Entrada,Aros de cebolla,1,90.67,90.67
+DIC0238,2023-12-11,Sur,Entrada,Nachos,3,135.88,407.64
+DIC0239,2023-12-09,Oeste,Bebida,Cerveza,3,32.95,98.85
+DIC0240,2023-12-10,Norte,Entrada,Nachos,5,228.46,1142.3
+DIC0241,2023-12-23,Este,Entrada,Pan de ajo,1,185.59,185.59
+DIC0242,2023-12-11,Este,Comida,Hamburguesa,3,220.17,660.51
+DIC0243,2023-12-20,Centro,Bebida,Cerveza,4,59.61,238.44
+DIC0244,2023-12-01,Oeste,Postre,Flan,1,140.04,140.04
+DIC0245,2023-12-23,Centro,Entrada,Nachos,1,51.04,51.04
+DIC0246,2023-12-15,Norte,Entrada,Aros de cebolla,4,164.05,656.2
+DIC0247,2023-12-08,Oeste,Comida,Pasta,1,58.41,58.41
+DIC0248,2023-12-28,Norte,Bebida,Refresco,5,56.21,281.05
+DIC0249,2023-12-15,Oeste,Postre,Helado,2,82.42,164.84
+DIC0250,2023-12-12,Norte,Entrada,Nachos,5,212.89,1064.45

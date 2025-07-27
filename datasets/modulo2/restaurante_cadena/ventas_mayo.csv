@@ -1,0 +1,251 @@
+ID_Venta,Fecha,Sucursal,Categoría,Producto,Cantidad,Precio_Unitario,Total
+MAY0001,2023-05-10,Oeste,Bebida,Té,1,33.72,33.72
+MAY0002,2023-05-05,Oeste,Postre,Flan,3,249.37,748.11
+MAY0003,2023-05-07,Este,Bebida,Cerveza,3,69.3,207.9
+MAY0004,2023-05-15,Sur,Comida,Ensalada,5,70.27,351.35
+MAY0005,2023-05-12,Norte,Bebida,Agua,4,174.34,697.36
+MAY0006,2023-05-12,Oeste,Entrada,Nachos,1,44.67,44.67
+MAY0007,2023-05-01,Sur,Comida,Tacos,4,117.3,469.2
+MAY0008,2023-05-12,Norte,Comida,Pizza,3,31.39,94.17
+MAY0009,2023-05-18,Norte,Postre,Pastel,3,173.7,521.1
+MAY0010,2023-05-14,Norte,Comida,Hamburguesa,4,78.35,313.4
+MAY0011,2023-05-05,Este,Entrada,Pan de ajo,3,42.61,127.83
+MAY0012,2023-05-26,Sur,Bebida,Té,4,212.2,848.8
+MAY0013,2023-05-08,Este,Entrada,Nachos,3,99.04,297.12
+MAY0014,2023-05-07,Centro,Comida,Tacos,5,100.05,500.25
+MAY0015,2023-05-12,Sur,Bebida,Refresco,4,111.02,444.08
+MAY0016,2023-05-14,Sur,Comida,Hamburguesa,3,154.57,463.71
+MAY0017,2023-05-08,Oeste,Entrada,Aros de cebolla,1,33.72,33.72
+MAY0018,2023-05-20,Sur,Entrada,Pan de ajo,5,246.65,1233.25
+MAY0019,2023-05-28,Centro,Entrada,Pan de ajo,2,139.26,278.52
+MAY0020,2023-05-11,Sur,Entrada,Nachos,1,208.46,208.46
+MAY0021,2023-05-11,Centro,Bebida,Café,1,244.81,244.81
+MAY0022,2023-05-25,Norte,Entrada,Nachos,1,59.91,59.91
+MAY0023,2023-05-12,Norte,Postre,Pastel,5,236.98,1184.9
+MAY0024,2023-05-16,Oeste,Entrada,Pan de ajo,5,118.78,593.9
+MAY0025,2023-05-01,Este,Entrada,Aros de cebolla,5,37.99,189.95
+MAY0026,2023-05-24,Este,Bebida,Refresco,4,66.29,265.16
+MAY0027,2023-05-23,Norte,Bebida,Refresco,2,205.54,411.08
+MAY0028,2023-05-23,Este,Entrada,Pan de ajo,1,115.67,115.67
+MAY0029,2023-05-14,Sur,Postre,Brownie,4,172.72,690.88
+MAY0030,2023-05-17,Sur,Bebida,Cerveza,5,236.96,1184.8
+MAY0031,2023-05-24,Sur,Bebida,Refresco,4,162.58,650.32
+MAY0032,2023-05-28,Oeste,Postre,Helado,5,36.79,183.95
+MAY0033,2023-05-10,Centro,Postre,Helado,2,81.3,162.6
+MAY0034,2023-05-28,Centro,Bebida,Refresco,3,158.94,476.82
+MAY0035,2023-05-03,Sur,Postre,Brownie,3,207.66,622.98
+MAY0036,2023-05-16,Centro,Entrada,Aros de cebolla,1,135.59,135.59
+MAY0037,2023-05-29,Este,Bebida,Café,4,243.0,972.0
+MAY0038,2023-05-10,Este,Postre,Flan,4,149.85,599.4
+MAY0039,2023-05-21,Este,Entrada,Aros de cebolla,5,155.93,779.65
+MAY0040,2023-05-22,Este,Postre,Pastel,2,122.35,244.7
+MAY0041,2023-05-03,Sur,Postre,Brownie,1,181.94,181.94
+MAY0042,2023-05-06,Sur,Postre,Pastel,2,35.07,70.14
+MAY0043,2023-05-16,Oeste,Postre,Helado,1,133.46,133.46
+MAY0044,2023-05-19,Norte,Entrada,Aros de cebolla,5,154.31,771.55
+MAY0045,2023-05-14,Sur,Entrada,Aros de cebolla,5,47.4,237.0
+MAY0046,2023-05-08,Sur,Bebida,Té,2,183.11,366.22
+MAY0047,2023-05-03,Este,Bebida,Refresco,5,182.84,914.2
+MAY0048,2023-05-22,Norte,Comida,Pizza,1,110.96,110.96
+MAY0049,2023-05-20,Este,Bebida,Café,2,120.98,241.96
+MAY0050,2023-05-12,Oeste,Postre,Helado,3,247.24,741.72
+MAY0051,2023-05-02,Sur,Postre,Flan,3,164.58,493.74
+MAY0052,2023-05-04,Sur,Entrada,Pan de ajo,3,125.62,376.86
+MAY0053,2023-05-11,Sur,Postre,Flan,3,193.97,581.91
+MAY0054,2023-05-09,Oeste,Comida,Tacos,4,164.64,658.56
+MAY0055,2023-05-22,Sur,Bebida,Té,3,83.34,250.02
+MAY0056,2023-05-26,Este,Entrada,Aros de cebolla,3,79.81,239.43
+MAY0057,2023-05-03,Norte,Postre,Pastel,5,145.68,728.4
+MAY0058,2023-05-23,Oeste,Bebida,Cerveza,3,40.5,121.5
+MAY0059,2023-05-29,Norte,Entrada,Nachos,4,163.2,652.8
+MAY0060,2023-05-21,Centro,Postre,Pastel,1,84.82,84.82
+MAY0061,2023-05-28,Centro,Entrada,Nachos,2,43.46,86.92
+MAY0062,2023-05-04,Oeste,Entrada,Nachos,3,135.36,406.08
+MAY0063,2023-05-27,Sur,Postre,Helado,4,93.15,372.6
+MAY0064,2023-05-07,Norte,Postre,Brownie,2,206.08,412.16
+MAY0065,2023-05-11,Sur,Comida,Pizza,3,32.24,96.72
+MAY0066,2023-05-15,Norte,Entrada,Aros de cebolla,1,113.93,113.93
+MAY0067,2023-05-07,Norte,Bebida,Té,1,42.01,42.01
+MAY0068,2023-05-18,Norte,Postre,Pastel,1,60.0,60.0
+MAY0069,2023-05-02,Oeste,Entrada,Aros de cebolla,3,218.86,656.58
+MAY0070,2023-05-27,Este,Entrada,Nachos,3,102.77,308.31
+MAY0071,2023-05-05,Oeste,Comida,Pasta,1,236.78,236.78
+MAY0072,2023-05-10,Oeste,Bebida,Refresco,3,87.44,262.32
+MAY0073,2023-05-26,Este,Postre,Helado,3,87.06,261.18
+MAY0074,2023-05-18,Oeste,Entrada,Nachos,2,48.62,97.24
+MAY0075,2023-05-29,Norte,Postre,Pastel,3,224.7,674.1
+MAY0076,2023-05-20,Centro,Bebida,Café,2,64.67,129.34
+MAY0077,2023-05-20,Norte,Bebida,Cerveza,3,98.21,294.63
+MAY0078,2023-05-27,Centro,Postre,Brownie,1,75.74,75.74
+MAY0079,2023-05-08,Este,Postre,Helado,5,175.92,879.6
+MAY0080,2023-05-27,Oeste,Entrada,Pan de ajo,1,212.86,212.86
+MAY0081,2023-05-04,Este,Postre,Helado,3,155.2,465.6
+MAY0082,2023-05-12,Este,Comida,Pizza,1,224.95,224.95
+MAY0083,2023-05-19,Norte,Entrada,Aros de cebolla,3,44.17,132.51
+MAY0084,2023-05-19,Centro,Comida,Tacos,3,75.72,227.16
+MAY0085,2023-05-23,Centro,Bebida,Cerveza,3,148.04,444.12
+MAY0086,2023-05-02,Sur,Bebida,Cerveza,5,209.31,1046.55
+MAY0087,2023-05-19,Sur,Entrada,Aros de cebolla,4,104.43,417.72
+MAY0088,2023-05-04,Norte,Bebida,Cerveza,5,74.23,371.15
+MAY0089,2023-05-24,Sur,Bebida,Refresco,2,59.98,119.96
+MAY0090,2023-05-22,Norte,Entrada,Pan de ajo,2,248.13,496.26
+MAY0091,2023-05-18,Sur,Comida,Pizza,2,34.83,69.66
+MAY0092,2023-05-29,Este,Entrada,Aros de cebolla,1,127.01,127.01
+MAY0093,2023-05-18,Este,Entrada,Aros de cebolla,1,235.22,235.22
+MAY0094,2023-05-12,Oeste,Entrada,Nachos,5,200.7,1003.5
+MAY0095,2023-05-10,Norte,Postre,Flan,1,84.81,84.81
+MAY0096,2023-05-27,Norte,Postre,Flan,1,76.33,76.33
+MAY0097,2023-05-21,Este,Bebida,Té,3,152.35,457.05
+MAY0098,2023-05-04,Norte,Bebida,Cerveza,3,36.39,109.17
+MAY0099,2023-05-21,Centro,Comida,Pizza,4,148.84,595.36
+MAY0100,2023-05-02,Norte,Comida,Hamburguesa,2,129.93,259.86
+MAY0101,2023-05-24,Centro,Bebida,Agua,3,41.47,124.41
+MAY0102,2023-05-06,Oeste,Entrada,Pan de ajo,3,120.99,362.97
+MAY0103,2023-05-04,Este,Entrada,Pan de ajo,1,200.76,200.76
+MAY0104,2023-05-27,Centro,Entrada,Aros de cebolla,4,211.46,845.84
+MAY0105,2023-05-05,Oeste,Bebida,Agua,3,41.01,123.03
+MAY0106,2023-05-01,Norte,Bebida,Té,4,221.93,887.72
+MAY0107,2023-05-13,Centro,Entrada,Pan de ajo,5,62.63,313.15
+MAY0108,2023-05-24,Oeste,Bebida,Cerveza,1,99.66,99.66
+MAY0109,2023-05-29,Sur,Postre,Brownie,5,116.72,583.6
+MAY0110,2023-05-10,Norte,Postre,Helado,4,238.37,953.48
+MAY0111,2023-05-16,Norte,Bebida,Café,1,156.15,156.15
+MAY0112,2023-05-27,Centro,Comida,Pizza,1,48.6,48.6
+MAY0113,2023-05-18,Oeste,Entrada,Pan de ajo,3,39.23,117.69
+MAY0114,2023-05-03,Este,Entrada,Pan de ajo,1,165.12,165.12
+MAY0115,2023-05-25,Norte,Comida,Ensalada,1,94.1,94.1
+MAY0116,2023-05-20,Oeste,Bebida,Agua,5,52.79,263.95
+MAY0117,2023-05-12,Centro,Postre,Flan,3,69.2,207.6
+MAY0118,2023-05-03,Este,Entrada,Nachos,2,67.99,135.98
+MAY0119,2023-05-24,Oeste,Entrada,Pan de ajo,2,86.0,172.0
+MAY0120,2023-05-18,Sur,Entrada,Nachos,3,65.98,197.94
+MAY0121,2023-05-15,Este,Bebida,Cerveza,2,54.86,109.72
+MAY0122,2023-05-12,Norte,Postre,Flan,4,160.04,640.16
+MAY0123,2023-05-04,Norte,Bebida,Refresco,2,182.32,364.64
+MAY0124,2023-05-28,Sur,Postre,Flan,1,96.45,96.45
+MAY0125,2023-05-20,Centro,Entrada,Pan de ajo,3,161.83,485.49
+MAY0126,2023-05-09,Centro,Postre,Brownie,2,34.58,69.16
+MAY0127,2023-05-19,Centro,Postre,Brownie,3,198.51,595.53
+MAY0128,2023-05-09,Este,Postre,Helado,4,203.37,813.48
+MAY0129,2023-05-24,Norte,Postre,Helado,2,117.4,234.8
+MAY0130,2023-05-15,Este,Postre,Brownie,2,81.3,162.6
+MAY0131,2023-05-08,Norte,Entrada,Aros de cebolla,2,100.16,200.32
+MAY0132,2023-05-27,Este,Postre,Helado,1,33.86,33.86
+MAY0133,2023-05-09,Norte,Postre,Pastel,5,61.19,305.95
+MAY0134,2023-05-04,Norte,Comida,Tacos,2,156.0,312.0
+MAY0135,2023-05-07,Norte,Postre,Pastel,4,45.69,182.76
+MAY0136,2023-05-02,Oeste,Comida,Pizza,3,160.11,480.33
+MAY0137,2023-05-23,Norte,Entrada,Nachos,4,125.9,503.6
+MAY0138,2023-05-17,Norte,Entrada,Nachos,3,211.87,635.61
+MAY0139,2023-05-24,Sur,Comida,Ensalada,3,112.94,338.82
+MAY0140,2023-05-10,Norte,Comida,Pasta,2,104.72,209.44
+MAY0141,2023-05-10,Centro,Comida,Pizza,1,174.03,174.03
+MAY0142,2023-05-03,Centro,Postre,Helado,2,184.96,369.92
+MAY0143,2023-05-01,Norte,Comida,Pizza,1,217.11,217.11
+MAY0144,2023-05-04,Centro,Comida,Tacos,5,194.82,974.1
+MAY0145,2023-05-09,Este,Postre,Helado,5,221.34,1106.7
+MAY0146,2023-05-03,Centro,Entrada,Aros de cebolla,1,95.55,95.55
+MAY0147,2023-05-21,Oeste,Comida,Pasta,5,101.88,509.4
+MAY0148,2023-05-04,Norte,Comida,Ensalada,3,98.05,294.15
+MAY0149,2023-05-19,Oeste,Comida,Hamburguesa,2,204.81,409.62
+MAY0150,2023-05-07,Norte,Entrada,Aros de cebolla,4,170.42,681.68
+MAY0151,2023-05-09,Este,Postre,Flan,4,200.71,802.84
+MAY0152,2023-05-13,Oeste,Postre,Brownie,1,194.77,194.77
+MAY0153,2023-05-12,Norte,Entrada,Pan de ajo,3,58.45,175.35
+MAY0154,2023-05-14,Norte,Comida,Pasta,4,61.0,244.0
+MAY0155,2023-05-11,Sur,Bebida,Refresco,1,72.53,72.53
+MAY0156,2023-05-22,Sur,Comida,Hamburguesa,5,92.55,462.75
+MAY0157,2023-05-28,Oeste,Bebida,Refresco,4,91.91,367.64
+MAY0158,2023-05-20,Este,Comida,Hamburguesa,5,133.63,668.15
+MAY0159,2023-05-05,Oeste,Bebida,Café,5,159.39,796.95
+MAY0160,2023-05-04,Norte,Postre,Pastel,5,173.37,866.85
+MAY0161,2023-05-02,Este,Comida,Pasta,2,34.38,68.76
+MAY0162,2023-05-06,Centro,Entrada,Aros de cebolla,2,34.61,69.22
+MAY0163,2023-05-20,Norte,Comida,Hamburguesa,2,106.52,213.04
+MAY0164,2023-05-19,Centro,Postre,Helado,2,149.67,299.34
+MAY0165,2023-05-08,Norte,Comida,Tacos,3,169.0,507.0
+MAY0166,2023-05-14,Oeste,Postre,Helado,2,224.99,449.98
+MAY0167,2023-05-12,Este,Comida,Tacos,2,151.69,303.38
+MAY0168,2023-05-22,Centro,Bebida,Té,1,198.81,198.81
+MAY0169,2023-05-13,Norte,Entrada,Aros de cebolla,4,147.48,589.92
+MAY0170,2023-05-18,Norte,Entrada,Aros de cebolla,2,235.38,470.76
+MAY0171,2023-05-08,Norte,Bebida,Té,4,164.07,656.28
+MAY0172,2023-05-12,Oeste,Bebida,Café,1,119.65,119.65
+MAY0173,2023-05-10,Este,Postre,Pastel,5,224.32,1121.6
+MAY0174,2023-05-04,Este,Bebida,Café,2,130.07,260.14
+MAY0175,2023-05-10,Norte,Postre,Pastel,1,30.18,30.18
+MAY0176,2023-05-08,Norte,Bebida,Té,2,204.04,408.08
+MAY0177,2023-05-02,Norte,Bebida,Refresco,5,178.07,890.35
+MAY0178,2023-05-21,Centro,Postre,Helado,5,131.44,657.2
+MAY0179,2023-05-02,Este,Entrada,Aros de cebolla,1,185.81,185.81
+MAY0180,2023-05-26,Este,Entrada,Aros de cebolla,1,114.84,114.84
+MAY0181,2023-05-07,Oeste,Postre,Helado,5,31.38,156.9
+MAY0182,2023-05-12,Oeste,Comida,Tacos,1,84.42,84.42
+MAY0183,2023-05-16,Centro,Bebida,Café,4,163.47,653.88
+MAY0184,2023-05-17,Oeste,Entrada,Pan de ajo,3,182.85,548.55
+MAY0185,2023-05-18,Oeste,Entrada,Pan de ajo,2,217.71,435.42
+MAY0186,2023-05-24,Centro,Postre,Flan,2,175.36,350.72
+MAY0187,2023-05-15,Oeste,Bebida,Café,4,112.91,451.64
+MAY0188,2023-05-06,Oeste,Entrada,Nachos,3,164.56,493.68
+MAY0189,2023-05-24,Sur,Comida,Pizza,2,101.21,202.42
+MAY0190,2023-05-24,Sur,Bebida,Agua,5,101.75,508.75
+MAY0191,2023-05-16,Sur,Entrada,Pan de ajo,4,170.02,680.08
+MAY0192,2023-05-05,Este,Bebida,Té,1,219.56,219.56
+MAY0193,2023-05-12,Este,Postre,Brownie,5,61.4,307.0
+MAY0194,2023-05-03,Centro,Entrada,Pan de ajo,3,247.46,742.38
+MAY0195,2023-05-02,Centro,Entrada,Pan de ajo,4,166.12,664.48
+MAY0196,2023-05-24,Sur,Comida,Pasta,4,202.01,808.04
+MAY0197,2023-05-12,Oeste,Entrada,Aros de cebolla,5,153.01,765.05
+MAY0198,2023-05-05,Norte,Postre,Brownie,5,90.68,453.4
+MAY0199,2023-05-03,Sur,Postre,Pastel,2,120.41,240.82
+MAY0200,2023-05-12,Norte,Entrada,Pan de ajo,3,237.62,712.86
+MAY0201,2023-05-13,Centro,Entrada,Pan de ajo,5,157.94,789.7
+MAY0202,2023-05-14,Centro,Entrada,Aros de cebolla,5,200.81,1004.05
+MAY0203,2023-05-12,Norte,Postre,Flan,5,99.53,497.65
+MAY0204,2023-05-08,Centro,Entrada,Nachos,2,101.87,203.74
+MAY0205,2023-05-15,Centro,Comida,Pizza,4,117.66,470.64
+MAY0206,2023-05-17,Centro,Entrada,Aros de cebolla,5,93.77,468.85
+MAY0207,2023-05-15,Sur,Comida,Pasta,5,69.41,347.05
+MAY0208,2023-05-06,Oeste,Postre,Pastel,1,199.44,199.44
+MAY0209,2023-05-05,Oeste,Bebida,Refresco,3,102.57,307.71
+MAY0210,2023-05-25,Sur,Bebida,Té,4,160.9,643.6
+MAY0211,2023-05-23,Centro,Comida,Pasta,2,106.48,212.96
+MAY0212,2023-05-25,Centro,Bebida,Café,1,203.43,203.43
+MAY0213,2023-05-07,Este,Comida,Pizza,3,40.1,120.3
+MAY0214,2023-05-03,Sur,Entrada,Nachos,5,160.28,801.4
+MAY0215,2023-05-19,Este,Bebida,Refresco,3,230.46,691.38
+MAY0216,2023-05-10,Norte,Postre,Pastel,5,152.75,763.75
+MAY0217,2023-05-28,Este,Entrada,Pan de ajo,3,176.29,528.87
+MAY0218,2023-05-06,Centro,Entrada,Pan de ajo,4,41.39,165.56
+MAY0219,2023-05-05,Centro,Comida,Pasta,4,133.86,535.44
+MAY0220,2023-05-17,Este,Comida,Hamburguesa,2,168.83,337.66
+MAY0221,2023-05-07,Sur,Postre,Pastel,3,40.47,121.41
+MAY0222,2023-05-05,Centro,Postre,Flan,5,58.94,294.7
+MAY0223,2023-05-26,Este,Entrada,Aros de cebolla,3,90.34,271.02
+MAY0224,2023-05-23,Este,Entrada,Aros de cebolla,1,66.26,66.26
+MAY0225,2023-05-20,Oeste,Bebida,Cerveza,3,55.7,167.1
+MAY0226,2023-05-29,Norte,Entrada,Aros de cebolla,4,60.12,240.48
+MAY0227,2023-05-07,Sur,Bebida,Cerveza,1,57.47,57.47
+MAY0228,2023-05-29,Este,Bebida,Cerveza,3,235.01,705.03
+MAY0229,2023-05-13,Este,Comida,Tacos,4,139.76,559.04
+MAY0230,2023-05-17,Sur,Postre,Flan,3,180.64,541.92
+MAY0231,2023-05-03,Centro,Bebida,Té,2,126.16,252.32
+MAY0232,2023-05-19,Este,Bebida,Té,1,79.55,79.55
+MAY0233,2023-05-06,Norte,Comida,Pizza,3,93.24,279.72
+MAY0234,2023-05-07,Centro,Comida,Pizza,5,184.33,921.65
+MAY0235,2023-05-23,Centro,Comida,Pizza,2,116.77,233.54
+MAY0236,2023-05-16,Este,Comida,Ensalada,2,82.1,164.2
+MAY0237,2023-05-23,Oeste,Entrada,Nachos,3,123.63,370.89
+MAY0238,2023-05-26,Sur,Bebida,Té,3,106.23,318.69
+MAY0239,2023-05-27,Norte,Postre,Helado,3,69.81,209.43
+MAY0240,2023-05-22,Centro,Postre,Helado,3,186.82,560.46
+MAY0241,2023-05-26,Este,Entrada,Nachos,3,245.05,735.15
+MAY0242,2023-05-22,Sur,Postre,Pastel,1,128.7,128.7
+MAY0243,2023-05-01,Sur,Comida,Pasta,1,217.37,217.37
+MAY0244,2023-05-20,Sur,Postre,Pastel,4,86.83,347.32
+MAY0245,2023-05-27,Norte,Postre,Brownie,3,80.67,242.01
+MAY0246,2023-05-22,Sur,Postre,Helado,5,95.46,477.3
+MAY0247,2023-05-04,Sur,Comida,Ensalada,5,56.2,281.0
+MAY0248,2023-05-08,Norte,Entrada,Nachos,5,87.19,435.95
+MAY0249,2023-05-04,Oeste,Comida,Tacos,5,80.9,404.5
+MAY0250,2023-05-22,Norte,Comida,Pizza,5,72.95,364.75

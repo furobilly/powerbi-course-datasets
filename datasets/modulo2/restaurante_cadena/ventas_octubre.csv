@@ -1,0 +1,251 @@
+ID_Venta,Fecha,Sucursal,Categoría,Producto,Cantidad,Precio_Unitario,Total
+OCT0001,2023-10-10,Norte,Comida,Pasta,2,43.17,86.34
+OCT0002,2023-10-26,Este,Comida,Hamburguesa,5,115.97,579.85
+OCT0003,2023-10-24,Este,Comida,Ensalada,4,168.42,673.68
+OCT0004,2023-10-04,Norte,Bebida,Agua,2,84.14,168.28
+OCT0005,2023-10-26,Norte,Entrada,Nachos,5,148.61,743.05
+OCT0006,2023-10-14,Sur,Comida,Pizza,5,113.28,566.4
+OCT0007,2023-10-21,Centro,Postre,Brownie,4,78.55,314.2
+OCT0008,2023-10-23,Sur,Comida,Tacos,5,216.08,1080.4
+OCT0009,2023-10-17,Este,Bebida,Refresco,2,38.81,77.62
+OCT0010,2023-10-11,Oeste,Postre,Helado,5,155.36,776.8
+OCT0011,2023-10-16,Norte,Bebida,Cerveza,1,184.67,184.67
+OCT0012,2023-10-04,Oeste,Bebida,Agua,5,126.22,631.1
+OCT0013,2023-10-13,Este,Entrada,Aros de cebolla,2,164.77,329.54
+OCT0014,2023-10-20,Norte,Postre,Pastel,5,138.0,690.0
+OCT0015,2023-10-14,Sur,Entrada,Aros de cebolla,1,105.35,105.35
+OCT0016,2023-10-03,Centro,Bebida,Té,1,60.68,60.68
+OCT0017,2023-10-21,Norte,Postre,Pastel,3,209.2,627.6
+OCT0018,2023-10-24,Este,Entrada,Aros de cebolla,4,94.42,377.68
+OCT0019,2023-10-12,Este,Bebida,Agua,2,44.0,88.0
+OCT0020,2023-10-10,Norte,Bebida,Agua,3,99.5,298.5
+OCT0021,2023-10-05,Este,Bebida,Café,3,239.04,717.12
+OCT0022,2023-10-22,Sur,Postre,Brownie,4,164.99,659.96
+OCT0023,2023-10-04,Norte,Entrada,Pan de ajo,4,94.57,378.28
+OCT0024,2023-10-22,Sur,Bebida,Agua,5,209.11,1045.55
+OCT0025,2023-10-02,Norte,Postre,Pastel,4,34.77,139.08
+OCT0026,2023-10-06,Norte,Postre,Pastel,5,240.89,1204.45
+OCT0027,2023-10-16,Centro,Entrada,Aros de cebolla,3,114.28,342.84
+OCT0028,2023-10-17,Este,Bebida,Refresco,2,220.6,441.2
+OCT0029,2023-10-10,Norte,Entrada,Pan de ajo,5,138.28,691.4
+OCT0030,2023-10-08,Norte,Postre,Pastel,5,165.06,825.3
+OCT0031,2023-10-11,Norte,Postre,Flan,1,220.62,220.62
+OCT0032,2023-10-08,Centro,Comida,Tacos,3,126.16,378.48
+OCT0033,2023-10-03,Este,Bebida,Cerveza,3,203.23,609.69
+OCT0034,2023-10-09,Sur,Entrada,Pan de ajo,1,246.47,246.47
+OCT0035,2023-10-01,Norte,Postre,Brownie,4,189.07,756.28
+OCT0036,2023-10-27,Centro,Postre,Pastel,3,220.08,660.24
+OCT0037,2023-10-01,Oeste,Entrada,Nachos,5,74.79,373.95
+OCT0038,2023-10-07,Norte,Bebida,Refresco,5,94.37,471.85
+OCT0039,2023-10-01,Centro,Bebida,Cerveza,2,127.84,255.68
+OCT0040,2023-10-19,Este,Postre,Flan,4,44.09,176.36
+OCT0041,2023-10-10,Norte,Entrada,Pan de ajo,4,127.96,511.84
+OCT0042,2023-10-21,Oeste,Entrada,Pan de ajo,2,78.34,156.68
+OCT0043,2023-10-02,Norte,Entrada,Nachos,1,30.96,30.96
+OCT0044,2023-10-02,Oeste,Bebida,Refresco,1,210.78,210.78
+OCT0045,2023-10-06,Oeste,Postre,Flan,3,57.83,173.49
+OCT0046,2023-10-10,Este,Bebida,Cerveza,2,248.43,496.86
+OCT0047,2023-10-10,Oeste,Entrada,Pan de ajo,1,156.78,156.78
+OCT0048,2023-10-12,Centro,Bebida,Té,4,163.16,652.64
+OCT0049,2023-10-08,Sur,Bebida,Café,3,31.92,95.76
+OCT0050,2023-10-12,Norte,Postre,Brownie,5,222.88,1114.4
+OCT0051,2023-10-14,Sur,Comida,Pasta,4,246.78,987.12
+OCT0052,2023-10-04,Sur,Comida,Hamburguesa,2,220.76,441.52
+OCT0053,2023-10-18,Sur,Postre,Pastel,2,229.78,459.56
+OCT0054,2023-10-11,Sur,Comida,Hamburguesa,3,47.04,141.12
+OCT0055,2023-10-02,Centro,Entrada,Nachos,5,134.54,672.7
+OCT0056,2023-10-15,Oeste,Comida,Pizza,5,239.36,1196.8
+OCT0057,2023-10-18,Centro,Comida,Tacos,1,86.16,86.16
+OCT0058,2023-10-25,Sur,Postre,Pastel,1,89.83,89.83
+OCT0059,2023-10-01,Centro,Entrada,Aros de cebolla,3,226.6,679.8
+OCT0060,2023-10-24,Sur,Bebida,Agua,1,72.01,72.01
+OCT0061,2023-10-16,Sur,Bebida,Café,3,98.26,294.78
+OCT0062,2023-10-08,Centro,Comida,Pizza,1,39.25,39.25
+OCT0063,2023-10-09,Sur,Entrada,Pan de ajo,4,234.91,939.64
+OCT0064,2023-10-14,Oeste,Entrada,Nachos,4,137.15,548.6
+OCT0065,2023-10-05,Centro,Postre,Pastel,5,50.07,250.35
+OCT0066,2023-10-16,Este,Bebida,Café,1,203.87,203.87
+OCT0067,2023-10-18,Centro,Bebida,Café,4,184.38,737.52
+OCT0068,2023-10-05,Este,Comida,Tacos,4,143.51,574.04
+OCT0069,2023-10-28,Este,Entrada,Nachos,5,48.74,243.7
+OCT0070,2023-10-28,Norte,Entrada,Aros de cebolla,5,108.37,541.85
+OCT0071,2023-10-05,Centro,Bebida,Cerveza,4,121.04,484.16
+OCT0072,2023-10-20,Norte,Postre,Pastel,5,103.22,516.1
+OCT0073,2023-10-29,Centro,Postre,Helado,5,86.23,431.15
+OCT0074,2023-10-04,Oeste,Postre,Brownie,2,101.97,203.94
+OCT0075,2023-10-08,Norte,Postre,Helado,2,110.24,220.48
+OCT0076,2023-10-01,Norte,Bebida,Agua,4,65.03,260.12
+OCT0077,2023-10-15,Sur,Comida,Ensalada,4,229.19,916.76
+OCT0078,2023-10-26,Sur,Comida,Hamburguesa,5,179.89,899.45
+OCT0079,2023-10-04,Norte,Entrada,Aros de cebolla,5,150.57,752.85
+OCT0080,2023-10-07,Sur,Comida,Pizza,5,31.42,157.1
+OCT0081,2023-10-20,Norte,Bebida,Cerveza,4,228.21,912.84
+OCT0082,2023-10-17,Norte,Entrada,Aros de cebolla,5,124.6,623.0
+OCT0083,2023-10-20,Centro,Postre,Flan,3,45.32,135.96
+OCT0084,2023-10-29,Sur,Bebida,Agua,5,57.67,288.35
+OCT0085,2023-10-06,Centro,Postre,Brownie,2,53.43,106.86
+OCT0086,2023-10-27,Oeste,Entrada,Nachos,1,237.1,237.1
+OCT0087,2023-10-01,Este,Entrada,Nachos,1,224.92,224.92
+OCT0088,2023-10-18,Este,Bebida,Té,2,220.31,440.62
+OCT0089,2023-10-11,Centro,Entrada,Aros de cebolla,1,130.29,130.29
+OCT0090,2023-10-10,Oeste,Postre,Helado,4,100.19,400.76
+OCT0091,2023-10-16,Centro,Entrada,Nachos,5,30.24,151.2
+OCT0092,2023-10-29,Centro,Comida,Ensalada,2,229.63,459.26
+OCT0093,2023-10-07,Norte,Comida,Pizza,3,187.59,562.77
+OCT0094,2023-10-09,Norte,Bebida,Agua,4,178.53,714.12
+OCT0095,2023-10-13,Este,Comida,Tacos,4,192.55,770.2
+OCT0096,2023-10-15,Centro,Entrada,Nachos,4,196.63,786.52
+OCT0097,2023-10-18,Este,Entrada,Nachos,5,112.76,563.8
+OCT0098,2023-10-24,Este,Postre,Brownie,4,118.58,474.32
+OCT0099,2023-10-07,Oeste,Postre,Pastel,4,163.6,654.4
+OCT0100,2023-10-24,Centro,Bebida,Cerveza,3,93.27,279.81
+OCT0101,2023-10-16,Norte,Comida,Pasta,2,186.95,373.9
+OCT0102,2023-10-21,Sur,Postre,Helado,4,247.01,988.04
+OCT0103,2023-10-15,Norte,Bebida,Café,2,167.31,334.62
+OCT0104,2023-10-19,Norte,Comida,Pasta,3,46.71,140.13
+OCT0105,2023-10-24,Este,Comida,Ensalada,3,34.68,104.04
+OCT0106,2023-10-19,Sur,Bebida,Café,1,41.02,41.02
+OCT0107,2023-10-14,Sur,Entrada,Pan de ajo,1,159.08,159.08
+OCT0108,2023-10-23,Norte,Comida,Hamburguesa,4,39.65,158.6
+OCT0109,2023-10-12,Norte,Entrada,Nachos,1,36.76,36.76
+OCT0110,2023-10-02,Sur,Entrada,Aros de cebolla,2,153.32,306.64
+OCT0111,2023-10-12,Norte,Entrada,Aros de cebolla,5,161.53,807.65
+OCT0112,2023-10-04,Norte,Bebida,Agua,5,93.58,467.9
+OCT0113,2023-10-16,Norte,Postre,Brownie,5,226.77,1133.85
+OCT0114,2023-10-22,Oeste,Comida,Tacos,4,155.5,622.0
+OCT0115,2023-10-15,Este,Comida,Tacos,5,114.57,572.85
+OCT0116,2023-10-08,Norte,Entrada,Aros de cebolla,2,179.33,358.66
+OCT0117,2023-10-03,Norte,Comida,Pizza,4,50.16,200.64
+OCT0118,2023-10-14,Norte,Entrada,Aros de cebolla,5,110.27,551.35
+OCT0119,2023-10-25,Oeste,Postre,Brownie,3,148.52,445.56
+OCT0120,2023-10-28,Centro,Bebida,Café,3,177.36,532.08
+OCT0121,2023-10-17,Centro,Comida,Hamburguesa,2,181.63,363.26
+OCT0122,2023-10-15,Este,Entrada,Pan de ajo,3,40.92,122.76
+OCT0123,2023-10-08,Oeste,Comida,Tacos,1,48.92,48.92
+OCT0124,2023-10-01,Este,Postre,Flan,2,75.86,151.72
+OCT0125,2023-10-11,Centro,Comida,Ensalada,2,239.96,479.92
+OCT0126,2023-10-12,Norte,Bebida,Cerveza,4,100.46,401.84
+OCT0127,2023-10-26,Centro,Entrada,Pan de ajo,2,186.81,373.62
+OCT0128,2023-10-28,Oeste,Comida,Hamburguesa,1,42.51,42.51
+OCT0129,2023-10-11,Norte,Comida,Pasta,5,210.57,1052.85
+OCT0130,2023-10-07,Centro,Comida,Pasta,1,127.54,127.54
+OCT0131,2023-10-06,Sur,Postre,Pastel,2,68.17,136.34
+OCT0132,2023-10-14,Norte,Postre,Pastel,5,103.72,518.6
+OCT0133,2023-10-02,Sur,Comida,Pasta,1,192.71,192.71
+OCT0134,2023-10-15,Norte,Bebida,Café,1,121.77,121.77
+OCT0135,2023-10-20,Oeste,Entrada,Aros de cebolla,1,67.49,67.49
+OCT0136,2023-10-22,Oeste,Comida,Pizza,4,246.71,986.84
+OCT0137,2023-10-27,Sur,Comida,Tacos,5,217.67,1088.35
+OCT0138,2023-10-13,Centro,Entrada,Pan de ajo,4,245.91,983.64
+OCT0139,2023-10-26,Centro,Postre,Helado,1,46.2,46.2
+OCT0140,2023-10-11,Centro,Postre,Helado,2,178.36,356.72
+OCT0141,2023-10-18,Este,Entrada,Aros de cebolla,5,234.57,1172.85
+OCT0142,2023-10-04,Centro,Postre,Helado,5,50.83,254.15
+OCT0143,2023-10-26,Norte,Postre,Helado,5,176.8,884.0
+OCT0144,2023-10-21,Centro,Entrada,Aros de cebolla,3,191.36,574.08
+OCT0145,2023-10-20,Este,Comida,Ensalada,4,208.7,834.8
+OCT0146,2023-10-14,Norte,Comida,Pasta,4,138.95,555.8
+OCT0147,2023-10-07,Oeste,Bebida,Café,4,233.9,935.6
+OCT0148,2023-10-02,Norte,Postre,Pastel,4,49.31,197.24
+OCT0149,2023-10-01,Norte,Entrada,Aros de cebolla,2,67.82,135.64
+OCT0150,2023-10-04,Oeste,Entrada,Aros de cebolla,5,125.7,628.5
+OCT0151,2023-10-29,Este,Comida,Pasta,2,183.83,367.66
+OCT0152,2023-10-12,Norte,Entrada,Nachos,3,238.91,716.73
+OCT0153,2023-10-24,Oeste,Bebida,Té,5,231.69,1158.45
+OCT0154,2023-10-03,Norte,Comida,Ensalada,5,94.12,470.6
+OCT0155,2023-10-14,Oeste,Postre,Pastel,3,59.83,179.49
+OCT0156,2023-10-15,Sur,Entrada,Aros de cebolla,4,132.27,529.08
+OCT0157,2023-10-16,Norte,Entrada,Aros de cebolla,5,95.2,476.0
+OCT0158,2023-10-21,Sur,Postre,Pastel,1,99.76,99.76
+OCT0159,2023-10-13,Sur,Comida,Ensalada,4,54.06,216.24
+OCT0160,2023-10-21,Centro,Entrada,Pan de ajo,5,158.2,791.0
+OCT0161,2023-10-15,Este,Bebida,Té,3,240.6,721.8
+OCT0162,2023-10-28,Centro,Postre,Pastel,4,147.56,590.24
+OCT0163,2023-10-24,Centro,Comida,Tacos,1,145.63,145.63
+OCT0164,2023-10-02,Norte,Postre,Pastel,5,30.96,154.8
+OCT0165,2023-10-13,Oeste,Postre,Flan,2,160.76,321.52
+OCT0166,2023-10-27,Sur,Entrada,Pan de ajo,4,213.76,855.04
+OCT0167,2023-10-25,Norte,Entrada,Nachos,1,167.82,167.82
+OCT0168,2023-10-09,Sur,Bebida,Refresco,2,57.17,114.34
+OCT0169,2023-10-15,Centro,Comida,Hamburguesa,4,171.62,686.48
+OCT0170,2023-10-11,Este,Entrada,Aros de cebolla,1,67.6,67.6
+OCT0171,2023-10-28,Norte,Postre,Helado,2,249.0,498.0
+OCT0172,2023-10-01,Oeste,Bebida,Café,1,163.04,163.04
+OCT0173,2023-10-06,Centro,Comida,Ensalada,1,66.99,66.99
+OCT0174,2023-10-20,Sur,Entrada,Pan de ajo,2,73.02,146.04
+OCT0175,2023-10-15,Norte,Bebida,Café,4,173.27,693.08
+OCT0176,2023-10-04,Sur,Postre,Brownie,4,109.97,439.88
+OCT0177,2023-10-25,Sur,Comida,Tacos,1,138.86,138.86
+OCT0178,2023-10-06,Sur,Postre,Brownie,5,238.13,1190.65
+OCT0179,2023-10-01,Sur,Entrada,Pan de ajo,4,200.93,803.72
+OCT0180,2023-10-07,Norte,Comida,Ensalada,4,149.41,597.64
+OCT0181,2023-10-08,Norte,Postre,Flan,3,85.69,257.07
+OCT0182,2023-10-24,Este,Postre,Flan,3,189.4,568.2
+OCT0183,2023-10-07,Sur,Entrada,Pan de ajo,4,244.54,978.16
+OCT0184,2023-10-26,Oeste,Bebida,Agua,3,141.47,424.41
+OCT0185,2023-10-16,Norte,Bebida,Agua,4,174.08,696.32
+OCT0186,2023-10-22,Sur,Entrada,Aros de cebolla,4,77.48,309.92
+OCT0187,2023-10-11,Este,Postre,Helado,4,63.94,255.76
+OCT0188,2023-10-16,Oeste,Postre,Brownie,5,31.01,155.05
+OCT0189,2023-10-23,Oeste,Postre,Helado,4,64.99,259.96
+OCT0190,2023-10-26,Oeste,Bebida,Agua,4,96.17,384.68
+OCT0191,2023-10-17,Sur,Postre,Pastel,3,108.33,324.99
+OCT0192,2023-10-07,Oeste,Comida,Tacos,1,248.8,248.8
+OCT0193,2023-10-20,Norte,Bebida,Té,4,89.21,356.84
+OCT0194,2023-10-21,Norte,Comida,Hamburguesa,3,130.73,392.19
+OCT0195,2023-10-01,Este,Bebida,Té,4,40.05,160.2
+OCT0196,2023-10-24,Sur,Bebida,Café,5,229.54,1147.7
+OCT0197,2023-10-27,Norte,Postre,Flan,1,176.73,176.73
+OCT0198,2023-10-19,Oeste,Comida,Hamburguesa,3,122.78,368.34
+OCT0199,2023-10-11,Centro,Postre,Pastel,2,107.96,215.92
+OCT0200,2023-10-18,Oeste,Postre,Flan,2,35.1,70.2
+OCT0201,2023-10-09,Centro,Comida,Tacos,2,76.14,152.28
+OCT0202,2023-10-09,Norte,Bebida,Café,2,161.26,322.52
+OCT0203,2023-10-28,Norte,Entrada,Pan de ajo,3,218.86,656.58
+OCT0204,2023-10-29,Sur,Comida,Hamburguesa,2,54.57,109.14
+OCT0205,2023-10-14,Este,Comida,Tacos,2,248.63,497.26
+OCT0206,2023-10-21,Norte,Postre,Helado,3,224.68,674.04
+OCT0207,2023-10-07,Sur,Entrada,Pan de ajo,2,113.67,227.34
+OCT0208,2023-10-20,Norte,Comida,Hamburguesa,4,145.19,580.76
+OCT0209,2023-10-03,Sur,Bebida,Té,3,187.28,561.84
+OCT0210,2023-10-28,Este,Postre,Flan,3,240.0,720.0
+OCT0211,2023-10-13,Oeste,Comida,Pasta,1,211.24,211.24
+OCT0212,2023-10-03,Sur,Bebida,Agua,4,50.63,202.52
+OCT0213,2023-10-07,Este,Postre,Flan,2,98.79,197.58
+OCT0214,2023-10-20,Oeste,Comida,Ensalada,2,59.86,119.72
+OCT0215,2023-10-17,Este,Comida,Ensalada,2,130.24,260.48
+OCT0216,2023-10-26,Centro,Postre,Brownie,2,51.0,102.0
+OCT0217,2023-10-27,Norte,Postre,Brownie,4,112.4,449.6
+OCT0218,2023-10-12,Este,Entrada,Aros de cebolla,2,224.25,448.5
+OCT0219,2023-10-02,Oeste,Comida,Pasta,1,86.66,86.66
+OCT0220,2023-10-08,Oeste,Entrada,Aros de cebolla,5,65.15,325.75
+OCT0221,2023-10-10,Oeste,Comida,Ensalada,1,155.62,155.62
+OCT0222,2023-10-03,Oeste,Entrada,Nachos,2,34.44,68.88
+OCT0223,2023-10-09,Centro,Postre,Pastel,4,125.88,503.52
+OCT0224,2023-10-20,Oeste,Postre,Flan,3,37.15,111.45
+OCT0225,2023-10-22,Este,Bebida,Cerveza,4,231.16,924.64
+OCT0226,2023-10-21,Sur,Bebida,Refresco,2,238.48,476.96
+OCT0227,2023-10-27,Centro,Bebida,Té,5,232.35,1161.75
+OCT0228,2023-10-05,Sur,Postre,Flan,1,217.05,217.05
+OCT0229,2023-10-03,Norte,Bebida,Refresco,5,61.95,309.75
+OCT0230,2023-10-27,Oeste,Entrada,Aros de cebolla,2,110.58,221.16
+OCT0231,2023-10-20,Norte,Bebida,Cerveza,3,53.55,160.65
+OCT0232,2023-10-18,Este,Entrada,Aros de cebolla,4,198.76,795.04
+OCT0233,2023-10-16,Centro,Entrada,Nachos,1,163.4,163.4
+OCT0234,2023-10-15,Sur,Postre,Flan,3,159.9,479.7
+OCT0235,2023-10-24,Sur,Bebida,Refresco,2,144.69,289.38
+OCT0236,2023-10-25,Norte,Bebida,Café,3,224.25,672.75
+OCT0237,2023-10-14,Oeste,Comida,Hamburguesa,2,180.85,361.7
+OCT0238,2023-10-24,Sur,Entrada,Aros de cebolla,1,56.11,56.11
+OCT0239,2023-10-05,Centro,Comida,Ensalada,5,62.36,311.8
+OCT0240,2023-10-06,Centro,Entrada,Pan de ajo,3,57.83,173.49
+OCT0241,2023-10-23,Centro,Entrada,Nachos,5,218.59,1092.95
+OCT0242,2023-10-14,Centro,Entrada,Nachos,1,180.77,180.77
+OCT0243,2023-10-28,Norte,Entrada,Nachos,2,210.42,420.84
+OCT0244,2023-10-12,Oeste,Comida,Pasta,4,150.99,603.96
+OCT0245,2023-10-21,Este,Comida,Tacos,4,127.38,509.52
+OCT0246,2023-10-11,Norte,Entrada,Nachos,3,200.03,600.09
+OCT0247,2023-10-08,Sur,Entrada,Aros de cebolla,3,30.22,90.66
+OCT0248,2023-10-16,Sur,Comida,Tacos,1,219.95,219.95
+OCT0249,2023-10-25,Centro,Postre,Flan,2,41.25,82.5
+OCT0250,2023-10-06,Norte,Bebida,Café,5,193.33,966.65

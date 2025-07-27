@@ -1,0 +1,10 @@
+https://datos.gob.mx/busca/dataset/poblacion-por-estado
+https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1
+https://www.inegi.org.mx/app/tabulados/default.aspx?pr=10
+https://datos.cdmx.gob.mx/dataset/salud-publica
+https://www.dof.gob.mx/nota_detalle.php?codigo=5677171&fecha=01/01/2023
+https://www.imss.gob.mx/prensa/archivo/2023
+https://datahub.io/core/gdp/datapackage.json
+https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
+https://www.worldometers.info/coronavirus/
+https://es.statista.com/estadisticas/1122704/mexico-ingresos-gobierno-federal/

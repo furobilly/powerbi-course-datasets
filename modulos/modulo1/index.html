@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo 1: Fundamentos - Power BI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #1B2951;
+            color: white;
+            line-height: 1.6;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #F2C811 0%, #FFD93D 100%);
+            color: #1B2951;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        .back-link {
+            display: inline-block;
+            color: #F2C811;
+            text-decoration: none;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+        
+        .back-link:hover {
+            transform: translateX(-5px);
+        }
+        
+        .intro-section {
+            background: #2A3F5F;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 40px;
+        }
+        
+        .intro-section h2 {
+            color: #F2C811;
+            margin-bottom: 20px;
+        }
+        
+        .objectives-list {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .objectives-list li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+        
+        .objectives-list li:before {
+            content: "✅";
+            position: absolute;
+            left: 0;
+        }
+        
+        .exercises-section {
+            margin-top: 40px;
+        }
+        
+        .exercises-title {
+            font-size: 2rem;
+            color: #F2C811;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .exercise-card {
+            background: #2A3F5F;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 25px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .exercise-card:hover {
+            border-color: #F2C811;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .exercise-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .exercise-number {
+            background: #F2C811;
+            color: #1B2951;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.875rem;
+        }
+        
+        .exercise-xp {
+            background: #00D4AA;
+            color: #1B2951;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+        
+        .exercise-title {
+            font-size: 1.5rem;
+            color: #F2C811;
+            margin-bottom: 15px;
+        }
+        
+        .exercise-description {
+            margin-bottom: 20px;
+            color: #ccc;
+        }
+        
+        .download-section {
+            background: rgba(0,0,0,0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        
+        .download-title {
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            color: #00D4AA;
+        }
+        
+        .download-btn {
+            display: inline-block;
+            background: #00D4AA;
+            color: #1B2951;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .download-btn:hover {
+            background: #00E5BB;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(0, 212, 170, 0.4);
+        }
+        
+        .tasks-list {
+            background: rgba(0,0,0,0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .task {
+            padding: 10px;
+            margin: 10px 0;
+            background: rgba(255,255,255,0.05);
+            border-radius: 5px;
+            border-left: 3px solid #F2C811;
+            transition: all 0.3s ease;
+        }
+        
+        .task:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateX(5px);
+        }
+        
+        .mini-test {
+            background: linear-gradient(135deg, #2A3F5F, #1B2951);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 60px;
+            text-align: center;
+        }
+        
+        .test-title {
+            font-size: 2rem;
+            color: #F2C811;
+            margin-bottom: 20px;
+        }
+        
+        .test-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #F2C811, #FFD93D);
+            color: #1B2951;
+            padding: 15px 40px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+        
+        .test-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 30px rgba(242, 200, 17, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h1>📦 Módulo 1: Fundamentos de Power BI</h1>
+        <p>Duración estimada: 4-5 horas | Nivel: Principiante</p>
+    </div>
+    
+    <!-- Container -->
+    <div class="container">
+        <a href="../../index.html" class="back-link">← Volver al inicio</a>
+        
+        <!-- Introducción -->
+        <div class="intro-section">
+            <h2>🎯 Objetivo del Módulo</h2>
+            <p>
+                En este módulo aprenderás los fundamentos esenciales de Power BI Desktop. 
+                Al finalizar serás capaz de conectar datos, transformarlos y crear tus 
+                primeras visualizaciones profesionales.
+            </p>
+            
+            <h3 style="margin-top: 30px; color: #00D4AA;">Lo que aprenderás:</h3>
+            <ul class="objectives-list">
+                <li>Dominar la interfaz de Power BI Desktop</li>
+                <li>Conectar diferentes fuentes de datos (Excel, CSV)</li>
+                <li>Limpiar y transformar datos con Power Query</li>
+                <li>Crear visualizaciones básicas</li>
+                <li>Aplicar formato profesional a tus reportes</li>
+            </ul>
+        </div>
+        
+        <!-- Ejercicios -->
+        <div class="exercises-section">
+            <h2 class="exercises-title">💪 Ejercicios Prácticos</h2>
+            
+            <!-- Ejercicio 1 -->
+            <div class="exercise-card">
+                <div class="exercise-header">
+                    <span class="exercise-number">EJERCICIO 1</span>
+                    <span class="exercise-xp">+50 XP</span>
+                </div>
+                <h3 class="exercise-title">🔌 Conexión de Datos - TecnoShop</h3>
+                <p class="exercise-description">
+                    Conecta Power BI con Excel y realiza tu primera transformación de datos 
+                    trabajando con el caso de TecnoShop, una cadena de tiendas de tecnología.
+                </p>
+                
+                <div class="download-section">
+                    <h4 class="download-title">📥 Archivo necesario:</h4>
+                    <a href="../../datasets/modulo1/ventas_tecnoshop.xlsx" class="download-btn" download>
+                        Descargar ventas_tecnoshop.xlsx
+                    </a>
+                </div>
+                
+                <div class="tasks-list">
+                    <h4 style="margin-bottom: 15px; color: #F2C811;">📝 Tareas a completar:</h4>
+                    <div class="task">1️⃣ Abre Power BI Desktop y conecta el archivo Excel</div>
+                    <div class="task">2️⃣ Accede a Power Query Editor</div>
+                    <div class="task">3️⃣ Renombra la columna "Precio_Unitario" a "Precio_Uni"</div>
+                    <div class="task">4️⃣ Crea columna calculada: Venta_Neta = Precio_Uni × Cantidad</div>
+                </div>
+            </div>
+            
+            <!-- Ejercicio 2 -->
+            <div class="exercise-card">
+                <div class="exercise-header">
+                    <span class="exercise-number">EJERCICIO 2</span>
+                    <span class="exercise-xp">+75 XP</span>
+                </div>
+                <h3 class="exercise-title">🧹 Limpieza de Datos Sucios</h3>
+                <p class="exercise-description">
+                    Aprende a manejar datos problemáticos: fechas en formato texto, valores nulos, 
+                    duplicados y formatos inconsistentes. Un caso real de limpieza de datos.
+                </p>
+                
+                <div class="download-section">
+                    <h4 class="download-title">📥 Archivo necesario:</h4>
+                    <a href="../../datasets/modulo1/datos_sucios.xlsx" class="download-btn" download>
+                        Descargar datos_sucios.xlsx
+                    </a>
+                </div>
+                
+                <div class="tasks-list">
+                    <h4 style="margin-bottom: 15px; color: #F2C811;">📝 Tareas a completar:</h4>
+                    <div class="task">1️⃣ Identifica todos los problemas en los datos</div>
+                    <div class="task">2️⃣ Convierte fechas de texto a formato fecha</div>
+                    <div class="task">3️⃣ Maneja valores nulos apropiadamente</div>
+                    <div class="task">4️⃣ Elimina duplicados</div>
+                    <div class="task">5️⃣ Normaliza formatos de texto</div>
+                </div>
+            </div>
+            
+            <!-- Ejercicio 3 -->
+            <div class="exercise-card">
+                <div class="exercise-header">
+                    <span class="exercise-number">EJERCICIO 3</span>
+                    <span class="exercise-xp">+60 XP</span>
+                </div>
+                <h3 class="exercise-title">📚 Análisis de Inventario - Librería Quijote</h3>
+                <p class="exercise-description">
+                    Trabaja con el inventario de una librería. Aprende a filtrar, ordenar y 
+                    analizar subconjuntos de datos para obtener insights valiosos.
+                </p>
+                
+                <div class="download-section">
+                    <h4 class="download-title">📥 Archivo necesario:</h4>
+                    <a href="../../datasets/modulo1/libreria_quijote.xlsx" class="download-btn" download>
+                        Descargar libreria_quijote.xlsx
+                    </a>
+                </div>
+                
+                <div class="tasks-list">
+                    <h4 style="margin-bottom: 15px; color: #F2C811;">📝 Tareas a completar:</h4>
+                    <div class="task">1️⃣ Conecta y explora la estructura de datos</div>
+                    <div class="task">2️⃣ Filtra solo libros del género "Novela"</div>
+                    <div class="task">3️⃣ Ordena por stock de menor a mayor</div>
+                    <div class="task">4️⃣ Identifica libros con stock crítico (< 5 unidades)</div>
+                </div>
+            </div>
+            
+            <!-- Ejercicio 4 -->
+            <div class="exercise-card">
+                <div class="exercise-header">
+                    <span class="exercise-number">EJERCICIO 4</span>
+                    <span class="exercise-xp">+100 XP</span>
+                </div>
+                <h3 class="exercise-title">📊 Primeras Medidas DAX</h3>
+                <p class="exercise-description">
+                    Introducción a DAX (Data Analysis Expressions). Crea tus primeras medidas 
+                    para cálculos dinámicos usando los datos de TecnoShop.
+                </p>
+                
+                <div class="download-section">
+                    <h4 class="download-title">📥 Archivo necesario:</h4>
+                    <a href="../../datasets/modulo1/ventas_tecnoshop.xlsx" class="download-btn" download>
+                        Usar ventas_tecnoshop.xlsx
+                    </a>
+                </div>
+                
+                <div class="tasks-list">
+                    <h4 style="margin-bottom: 15px; color: #F2C811;">📝 Medidas a crear:</h4>
+                    <div class="task">1️⃣ Total_Ventas = SUM(Ventas[Venta_Neta])</div>
+                    <div class="task">2️⃣ Promedio_Venta = AVERAGE(Ventas[Venta_Neta])</div>
+                    <div class="task">3️⃣ Cantidad_Productos = DISTINCTCOUNT(Ventas[Producto])</div>
+                    <div class="task">4️⃣ Ventas_Por_Sucursal (usando CALCULATE)</div>
+                </div>
+            </div>
+            
+            <!-- Ejercicio 5 -->
+            <div class="exercise-card">
+                <div class="exercise-header">
+                    <span class="exercise-number">EJERCICIO 5</span>
+                    <span class="exercise-xp">+150 XP</span>
+                </div>
+                <h3 class="exercise-title">🎨 Dashboard Completo</h3>
+                <p class="exercise-description">
+                    Aplica todo lo aprendido para crear un dashboard profesional completo. 
+                    Este es tu proyecto integrador del módulo.
+                </p>
+                
+                <div class="download-section">
+                    <h4 class="download-title">📥 Archivo necesario:</h4>
+                    <a href="../../datasets/modulo1/examen_modulo1.xlsx" class="download-btn" download>
+                        Descargar examen_modulo1.xlsx
+                    </a>
+                </div>
+                
+                <div class="tasks-list">
+                    <h4 style="margin-bottom: 15px; color: #F2C811;">📝 Requisitos del dashboard:</h4>
+                    <div class="task">1️⃣ Crear al menos 5 visualizaciones diferentes</div>
+                    <div class="task">2️⃣ Incluir KPIs principales en la parte superior</div>
+                    <div class="task">3️⃣ Añadir segmentadores de datos interactivos</div>
+                    <div class="task">4️⃣ Aplicar formato corporativo consistente</div>
+                    <div class="task">5️⃣ Configurar interacciones entre visuales</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Mini Test -->
+        <div class="mini-test">
+            <h2 class="test-title">🧪 Mini Test del Módulo</h2>
+            <p style="font-size: 1.2rem; margin-bottom: 20px;">
+                ¿Listo para evaluar lo aprendido? Completa este test de 5 preguntas 
+                para desbloquear el siguiente módulo.
+            </p>
+            <p style="color: #00D4AA; margin-bottom: 30px;">
+                ⏱️ Duración: 10 minutos | 📊 Aprobación: 70% (4/5 correctas)
+            </p>
+            <a href="quiz.html" class="test-btn">
+                Comenzar Test →
+            </a>
+        </div>
+    </div>
+</body>
+</html>

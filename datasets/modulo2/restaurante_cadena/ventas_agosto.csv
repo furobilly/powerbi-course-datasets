@@ -1,0 +1,251 @@
+ID_Venta,Fecha,Sucursal,Categoría,Producto,Cantidad,Precio_Unitario,Total
+AGO0001,2023-08-11,Sur,Bebida,Té,1,189.36,189.36
+AGO0002,2023-08-07,Centro,Bebida,Refresco,5,221.56,1107.8
+AGO0003,2023-08-06,Oeste,Bebida,Agua,2,56.01,112.02
+AGO0004,2023-08-06,Este,Entrada,Aros de cebolla,5,63.51,317.55
+AGO0005,2023-08-17,Este,Bebida,Refresco,5,160.12,800.6
+AGO0006,2023-08-24,Sur,Postre,Brownie,2,95.37,190.74
+AGO0007,2023-08-29,Centro,Comida,Tacos,2,166.64,333.28
+AGO0008,2023-08-10,Centro,Bebida,Cerveza,2,104.1,208.2
+AGO0009,2023-08-26,Oeste,Entrada,Aros de cebolla,1,124.18,124.18
+AGO0010,2023-08-08,Oeste,Postre,Brownie,5,57.52,287.6
+AGO0011,2023-08-09,Centro,Comida,Tacos,2,118.51,237.02
+AGO0012,2023-08-19,Centro,Comida,Ensalada,2,174.95,349.9
+AGO0013,2023-08-28,Oeste,Entrada,Pan de ajo,1,119.87,119.87
+AGO0014,2023-08-08,Norte,Entrada,Pan de ajo,4,103.31,413.24
+AGO0015,2023-08-11,Este,Postre,Pastel,3,98.12,294.36
+AGO0016,2023-08-17,Norte,Postre,Pastel,3,186.38,559.14
+AGO0017,2023-08-04,Sur,Comida,Pizza,5,136.08,680.4
+AGO0018,2023-08-24,Este,Entrada,Nachos,4,32.8,131.2
+AGO0019,2023-08-24,Este,Entrada,Nachos,1,171.32,171.32
+AGO0020,2023-08-04,Oeste,Postre,Pastel,1,79.67,79.67
+AGO0021,2023-08-26,Oeste,Bebida,Refresco,3,62.25,186.75
+AGO0022,2023-08-28,Norte,Comida,Pasta,4,73.62,294.48
+AGO0023,2023-08-17,Norte,Bebida,Café,3,38.87,116.61
+AGO0024,2023-08-13,Sur,Postre,Flan,4,90.51,362.04
+AGO0025,2023-08-01,Este,Comida,Tacos,1,138.54,138.54
+AGO0026,2023-08-12,Centro,Entrada,Nachos,3,200.38,601.14
+AGO0027,2023-08-25,Oeste,Comida,Ensalada,1,120.98,120.98
+AGO0028,2023-08-19,Sur,Comida,Ensalada,5,168.57,842.85
+AGO0029,2023-08-15,Oeste,Comida,Ensalada,2,182.92,365.84
+AGO0030,2023-08-13,Norte,Postre,Pastel,4,88.96,355.84
+AGO0031,2023-08-09,Oeste,Postre,Pastel,1,163.1,163.1
+AGO0032,2023-08-15,Centro,Postre,Pastel,5,105.75,528.75
+AGO0033,2023-08-23,Sur,Comida,Tacos,4,226.94,907.76
+AGO0034,2023-08-14,Oeste,Postre,Brownie,2,177.2,354.4
+AGO0035,2023-08-27,Este,Comida,Ensalada,4,40.32,161.28
+AGO0036,2023-08-14,Norte,Comida,Hamburguesa,5,92.71,463.55
+AGO0037,2023-08-14,Centro,Comida,Tacos,3,100.17,300.51
+AGO0038,2023-08-13,Oeste,Postre,Pastel,2,248.78,497.56
+AGO0039,2023-08-25,Centro,Bebida,Cerveza,5,47.92,239.6
+AGO0040,2023-08-06,Centro,Bebida,Té,2,114.18,228.36
+AGO0041,2023-08-14,Oeste,Bebida,Té,5,111.78,558.9
+AGO0042,2023-08-12,Este,Entrada,Pan de ajo,1,238.67,238.67
+AGO0043,2023-08-16,Oeste,Comida,Pizza,2,116.18,232.36
+AGO0044,2023-08-04,Sur,Postre,Pastel,4,243.58,974.32
+AGO0045,2023-08-25,Norte,Entrada,Pan de ajo,2,162.07,324.14
+AGO0046,2023-08-08,Norte,Postre,Brownie,1,59.07,59.07
+AGO0047,2023-08-11,Oeste,Entrada,Aros de cebolla,1,88.0,88.0
+AGO0048,2023-08-09,Oeste,Comida,Ensalada,5,137.22,686.1
+AGO0049,2023-08-13,Centro,Entrada,Nachos,1,161.25,161.25
+AGO0050,2023-08-18,Norte,Comida,Pasta,3,214.6,643.8
+AGO0051,2023-08-23,Este,Comida,Hamburguesa,2,73.93,147.86
+AGO0052,2023-08-12,Sur,Entrada,Nachos,5,51.17,255.85
+AGO0053,2023-08-27,Norte,Postre,Pastel,4,105.44,421.76
+AGO0054,2023-08-27,Centro,Bebida,Refresco,4,54.52,218.08
+AGO0055,2023-08-26,Norte,Postre,Brownie,2,205.72,411.44
+AGO0056,2023-08-25,Centro,Comida,Tacos,4,79.7,318.8
+AGO0057,2023-08-19,Sur,Entrada,Aros de cebolla,3,239.43,718.29
+AGO0058,2023-08-07,Oeste,Postre,Brownie,1,189.81,189.81
+AGO0059,2023-08-28,Sur,Bebida,Cerveza,1,47.58,47.58
+AGO0060,2023-08-27,Oeste,Entrada,Pan de ajo,5,46.15,230.75
+AGO0061,2023-08-13,Este,Postre,Helado,4,156.85,627.4
+AGO0062,2023-08-03,Norte,Entrada,Aros de cebolla,4,59.1,236.4
+AGO0063,2023-08-18,Este,Bebida,Agua,5,184.69,923.45
+AGO0064,2023-08-11,Norte,Comida,Tacos,1,81.06,81.06
+AGO0065,2023-08-18,Centro,Entrada,Nachos,3,192.77,578.31
+AGO0066,2023-08-04,Este,Bebida,Agua,5,136.96,684.8
+AGO0067,2023-08-28,Este,Comida,Pizza,5,229.51,1147.55
+AGO0068,2023-08-08,Este,Comida,Tacos,1,234.19,234.19
+AGO0069,2023-08-05,Este,Bebida,Refresco,2,117.17,234.34
+AGO0070,2023-08-28,Centro,Comida,Tacos,5,39.68,198.4
+AGO0071,2023-08-02,Oeste,Entrada,Aros de cebolla,5,214.23,1071.15
+AGO0072,2023-08-19,Centro,Comida,Hamburguesa,5,219.11,1095.55
+AGO0073,2023-08-27,Centro,Comida,Pizza,2,42.91,85.82
+AGO0074,2023-08-06,Sur,Bebida,Agua,5,59.76,298.8
+AGO0075,2023-08-28,Sur,Postre,Helado,4,181.48,725.92
+AGO0076,2023-08-21,Centro,Entrada,Pan de ajo,2,161.44,322.88
+AGO0077,2023-08-23,Oeste,Bebida,Café,5,39.17,195.85
+AGO0078,2023-08-08,Sur,Entrada,Nachos,4,59.27,237.08
+AGO0079,2023-08-18,Sur,Entrada,Aros de cebolla,3,175.55,526.65
+AGO0080,2023-08-08,Oeste,Bebida,Refresco,5,100.19,500.95
+AGO0081,2023-08-10,Oeste,Postre,Flan,2,233.66,467.32
+AGO0082,2023-08-04,Centro,Comida,Hamburguesa,5,152.64,763.2
+AGO0083,2023-08-11,Norte,Entrada,Aros de cebolla,5,168.44,842.2
+AGO0084,2023-08-18,Este,Postre,Flan,4,197.66,790.64
+AGO0085,2023-08-08,Norte,Bebida,Cerveza,3,161.37,484.11
+AGO0086,2023-08-04,Sur,Comida,Ensalada,1,165.64,165.64
+AGO0087,2023-08-29,Centro,Entrada,Aros de cebolla,4,32.66,130.64
+AGO0088,2023-08-09,Centro,Entrada,Nachos,4,98.11,392.44
+AGO0089,2023-08-12,Este,Entrada,Nachos,2,95.19,190.38
+AGO0090,2023-08-02,Centro,Entrada,Nachos,3,58.84,176.52
+AGO0091,2023-08-28,Norte,Postre,Flan,3,35.98,107.94
+AGO0092,2023-08-12,Este,Comida,Hamburguesa,1,127.07,127.07
+AGO0093,2023-08-22,Sur,Entrada,Nachos,1,99.53,99.53
+AGO0094,2023-08-26,Norte,Entrada,Pan de ajo,2,43.6,87.2
+AGO0095,2023-08-20,Oeste,Postre,Flan,2,46.51,93.02
+AGO0096,2023-08-07,Centro,Postre,Flan,3,127.31,381.93
+AGO0097,2023-08-22,Norte,Entrada,Aros de cebolla,3,191.02,573.06
+AGO0098,2023-08-14,Oeste,Comida,Tacos,4,182.77,731.08
+AGO0099,2023-08-14,Oeste,Comida,Tacos,1,188.99,188.99
+AGO0100,2023-08-01,Este,Comida,Pasta,5,170.19,850.95
+AGO0101,2023-08-22,Oeste,Entrada,Pan de ajo,4,236.08,944.32
+AGO0102,2023-08-06,Oeste,Bebida,Café,1,102.62,102.62
+AGO0103,2023-08-29,Este,Bebida,Cerveza,5,223.84,1119.2
+AGO0104,2023-08-14,Sur,Postre,Brownie,1,117.12,117.12
+AGO0105,2023-08-08,Este,Entrada,Nachos,2,199.84,399.68
+AGO0106,2023-08-21,Norte,Entrada,Pan de ajo,3,49.51,148.53
+AGO0107,2023-08-22,Centro,Comida,Hamburguesa,2,154.01,308.02
+AGO0108,2023-08-14,Norte,Postre,Brownie,2,137.55,275.1
+AGO0109,2023-08-19,Norte,Bebida,Té,2,183.69,367.38
+AGO0110,2023-08-02,Sur,Bebida,Té,4,249.62,998.48
+AGO0111,2023-08-25,Norte,Postre,Pastel,5,70.93,354.65
+AGO0112,2023-08-08,Este,Postre,Helado,4,197.88,791.52
+AGO0113,2023-08-29,Sur,Entrada,Pan de ajo,2,219.08,438.16
+AGO0114,2023-08-28,Oeste,Bebida,Café,2,134.15,268.3
+AGO0115,2023-08-24,Norte,Bebida,Cerveza,3,188.6,565.8
+AGO0116,2023-08-14,Centro,Comida,Pizza,2,82.43,164.86
+AGO0117,2023-08-10,Centro,Comida,Tacos,1,181.52,181.52
+AGO0118,2023-08-02,Oeste,Entrada,Pan de ajo,2,71.56,143.12
+AGO0119,2023-08-24,Este,Postre,Flan,3,60.43,181.29
+AGO0120,2023-08-01,Oeste,Comida,Pasta,2,160.02,320.04
+AGO0121,2023-08-24,Centro,Comida,Ensalada,3,102.91,308.73
+AGO0122,2023-08-24,Este,Postre,Flan,2,181.81,363.62
+AGO0123,2023-08-18,Oeste,Comida,Ensalada,5,101.19,505.95
+AGO0124,2023-08-10,Centro,Comida,Pizza,2,151.25,302.5
+AGO0125,2023-08-10,Sur,Comida,Hamburguesa,4,187.66,750.64
+AGO0126,2023-08-06,Este,Bebida,Cerveza,2,178.16,356.32
+AGO0127,2023-08-27,Este,Bebida,Cerveza,4,138.41,553.64
+AGO0128,2023-08-15,Oeste,Bebida,Cerveza,4,236.63,946.52
+AGO0129,2023-08-22,Este,Comida,Ensalada,3,118.4,355.2
+AGO0130,2023-08-11,Sur,Comida,Ensalada,5,30.76,153.8
+AGO0131,2023-08-10,Sur,Comida,Pizza,1,113.26,113.26
+AGO0132,2023-08-12,Norte,Postre,Helado,3,167.26,501.78
+AGO0133,2023-08-21,Este,Postre,Pastel,1,190.14,190.14
+AGO0134,2023-08-14,Sur,Postre,Pastel,4,59.1,236.4
+AGO0135,2023-08-18,Oeste,Comida,Ensalada,3,134.11,402.33
+AGO0136,2023-08-23,Sur,Bebida,Café,2,129.76,259.52
+AGO0137,2023-08-27,Centro,Comida,Ensalada,1,212.69,212.69
+AGO0138,2023-08-05,Sur,Bebida,Café,5,72.0,360.0
+AGO0139,2023-08-02,Sur,Entrada,Aros de cebolla,1,238.09,238.09
+AGO0140,2023-08-20,Oeste,Entrada,Aros de cebolla,4,99.31,397.24
+AGO0141,2023-08-15,Oeste,Bebida,Refresco,2,145.0,290.0
+AGO0142,2023-08-16,Sur,Entrada,Pan de ajo,5,156.35,781.75
+AGO0143,2023-08-15,Este,Comida,Tacos,5,161.72,808.6
+AGO0144,2023-08-14,Sur,Comida,Pasta,3,192.82,578.46
+AGO0145,2023-08-21,Norte,Comida,Tacos,2,161.39,322.78
+AGO0146,2023-08-19,Norte,Entrada,Aros de cebolla,2,95.25,190.5
+AGO0147,2023-08-04,Centro,Bebida,Té,4,86.6,346.4
+AGO0148,2023-08-15,Oeste,Bebida,Refresco,5,64.53,322.65
+AGO0149,2023-08-04,Oeste,Comida,Hamburguesa,3,102.5,307.5
+AGO0150,2023-08-20,Centro,Postre,Helado,1,85.33,85.33
+AGO0151,2023-08-17,Norte,Bebida,Café,2,126.13,252.26
+AGO0152,2023-08-25,Este,Bebida,Té,3,243.88,731.64
+AGO0153,2023-08-04,Sur,Postre,Helado,2,211.88,423.76
+AGO0154,2023-08-06,Este,Entrada,Pan de ajo,5,131.44,657.2
+AGO0155,2023-08-01,Norte,Comida,Pasta,5,200.36,1001.8
+AGO0156,2023-08-14,Este,Bebida,Cerveza,5,129.06,645.3
+AGO0157,2023-08-02,Centro,Comida,Tacos,3,174.6,523.8
+AGO0158,2023-08-04,Norte,Entrada,Pan de ajo,1,40.88,40.88
+AGO0159,2023-08-17,Oeste,Postre,Flan,4,118.18,472.72
+AGO0160,2023-08-06,Oeste,Postre,Brownie,3,35.39,106.17
+AGO0161,2023-08-28,Oeste,Entrada,Pan de ajo,3,127.64,382.92
+AGO0162,2023-08-15,Norte,Entrada,Nachos,5,224.39,1121.95
+AGO0163,2023-08-11,Norte,Comida,Pasta,4,218.78,875.12
+AGO0164,2023-08-20,Oeste,Bebida,Café,1,206.88,206.88
+AGO0165,2023-08-01,Centro,Comida,Pasta,4,223.61,894.44
+AGO0166,2023-08-02,Este,Entrada,Aros de cebolla,1,59.13,59.13
+AGO0167,2023-08-07,Oeste,Postre,Flan,4,228.19,912.76
+AGO0168,2023-08-03,Este,Entrada,Aros de cebolla,5,102.72,513.6
+AGO0169,2023-08-04,Este,Postre,Flan,3,195.35,586.05
+AGO0170,2023-08-25,Sur,Postre,Pastel,2,248.06,496.12
+AGO0171,2023-08-23,Centro,Entrada,Aros de cebolla,1,90.41,90.41
+AGO0172,2023-08-04,Este,Entrada,Pan de ajo,5,128.21,641.05
+AGO0173,2023-08-16,Centro,Bebida,Agua,3,180.32,540.96
+AGO0174,2023-08-03,Centro,Entrada,Aros de cebolla,3,107.64,322.92
+AGO0175,2023-08-14,Sur,Bebida,Cerveza,3,226.19,678.57
+AGO0176,2023-08-25,Sur,Comida,Pasta,4,159.52,638.08
+AGO0177,2023-08-18,Norte,Comida,Pizza,2,206.37,412.74
+AGO0178,2023-08-02,Oeste,Entrada,Pan de ajo,1,249.58,249.58
+AGO0179,2023-08-28,Centro,Bebida,Agua,1,210.53,210.53
+AGO0180,2023-08-22,Norte,Entrada,Nachos,4,240.83,963.32
+AGO0181,2023-08-24,Norte,Comida,Pasta,3,95.63,286.89
+AGO0182,2023-08-23,Norte,Bebida,Té,1,171.46,171.46
+AGO0183,2023-08-23,Oeste,Comida,Tacos,5,190.89,954.45
+AGO0184,2023-08-27,Centro,Bebida,Refresco,3,246.29,738.87
+AGO0185,2023-08-16,Oeste,Bebida,Agua,1,176.95,176.95
+AGO0186,2023-08-17,Este,Entrada,Pan de ajo,5,44.57,222.85
+AGO0187,2023-08-03,Sur,Entrada,Pan de ajo,2,223.08,446.16
+AGO0188,2023-08-18,Norte,Postre,Helado,1,152.15,152.15
+AGO0189,2023-08-19,Centro,Postre,Brownie,5,164.07,820.35
+AGO0190,2023-08-08,Norte,Postre,Flan,4,231.16,924.64
+AGO0191,2023-08-03,Sur,Postre,Brownie,4,195.39,781.56
+AGO0192,2023-08-24,Oeste,Comida,Pasta,2,100.81,201.62
+AGO0193,2023-08-18,Oeste,Postre,Pastel,5,225.42,1127.1
+AGO0194,2023-08-23,Centro,Comida,Pizza,4,174.73,698.92
+AGO0195,2023-08-08,Centro,Bebida,Té,2,85.21,170.42
+AGO0196,2023-08-10,Oeste,Bebida,Refresco,5,107.83,539.15
+AGO0197,2023-08-02,Centro,Bebida,Agua,5,144.53,722.65
+AGO0198,2023-08-29,Centro,Entrada,Nachos,2,215.76,431.52
+AGO0199,2023-08-05,Este,Bebida,Refresco,4,153.97,615.88
+AGO0200,2023-08-19,Sur,Entrada,Aros de cebolla,4,147.17,588.68
+AGO0201,2023-08-14,Oeste,Postre,Pastel,1,174.39,174.39
+AGO0202,2023-08-28,Norte,Entrada,Pan de ajo,5,88.81,444.05
+AGO0203,2023-08-05,Oeste,Bebida,Refresco,2,140.19,280.38
+AGO0204,2023-08-24,Centro,Postre,Brownie,3,183.19,549.57
+AGO0205,2023-08-27,Norte,Entrada,Nachos,2,83.83,167.66
+AGO0206,2023-08-10,Oeste,Entrada,Nachos,3,192.1,576.3
+AGO0207,2023-08-04,Norte,Entrada,Pan de ajo,3,167.0,501.0
+AGO0208,2023-08-19,Oeste,Entrada,Aros de cebolla,3,214.5,643.5
+AGO0209,2023-08-01,Norte,Bebida,Refresco,4,216.85,867.4
+AGO0210,2023-08-15,Norte,Comida,Ensalada,5,118.63,593.15
+AGO0211,2023-08-15,Centro,Comida,Tacos,5,50.3,251.5
+AGO0212,2023-08-08,Norte,Entrada,Pan de ajo,3,140.14,420.42
+AGO0213,2023-08-18,Sur,Entrada,Aros de cebolla,5,210.77,1053.85
+AGO0214,2023-08-20,Este,Entrada,Pan de ajo,1,150.73,150.73
+AGO0215,2023-08-18,Norte,Bebida,Cerveza,2,59.37,118.74
+AGO0216,2023-08-13,Oeste,Entrada,Nachos,5,129.07,645.35
+AGO0217,2023-08-08,Este,Comida,Pizza,2,224.46,448.92
+AGO0218,2023-08-04,Sur,Comida,Hamburguesa,4,185.85,743.4
+AGO0219,2023-08-12,Sur,Postre,Brownie,5,42.24,211.2
+AGO0220,2023-08-19,Centro,Entrada,Aros de cebolla,3,157.8,473.4
+AGO0221,2023-08-19,Norte,Entrada,Aros de cebolla,3,139.21,417.63
+AGO0222,2023-08-26,Este,Comida,Pasta,1,148.97,148.97
+AGO0223,2023-08-29,Oeste,Bebida,Café,3,143.12,429.36
+AGO0224,2023-08-21,Oeste,Comida,Tacos,1,138.7,138.7
+AGO0225,2023-08-04,Este,Postre,Flan,5,142.18,710.9
+AGO0226,2023-08-15,Oeste,Bebida,Café,2,211.89,423.78
+AGO0227,2023-08-26,Centro,Postre,Brownie,5,120.43,602.15
+AGO0228,2023-08-01,Centro,Bebida,Refresco,4,180.75,723.0
+AGO0229,2023-08-15,Norte,Bebida,Cerveza,1,160.61,160.61
+AGO0230,2023-08-11,Centro,Comida,Pasta,3,36.13,108.39
+AGO0231,2023-08-28,Oeste,Comida,Pizza,5,234.25,1171.25
+AGO0232,2023-08-16,Oeste,Entrada,Pan de ajo,1,202.51,202.51
+AGO0233,2023-08-13,Centro,Bebida,Refresco,4,172.75,691.0
+AGO0234,2023-08-27,Centro,Entrada,Aros de cebolla,5,187.36,936.8
+AGO0235,2023-08-23,Norte,Comida,Hamburguesa,2,130.03,260.06
+AGO0236,2023-08-07,Este,Entrada,Nachos,2,159.69,319.38
+AGO0237,2023-08-17,Este,Bebida,Cerveza,5,90.48,452.4
+AGO0238,2023-08-01,Sur,Postre,Brownie,2,232.69,465.38
+AGO0239,2023-08-20,Oeste,Comida,Ensalada,4,137.98,551.92
+AGO0240,2023-08-13,Norte,Entrada,Pan de ajo,2,202.25,404.5
+AGO0241,2023-08-24,Este,Postre,Flan,1,181.91,181.91
+AGO0242,2023-08-26,Norte,Entrada,Nachos,2,192.74,385.48
+AGO0243,2023-08-14,Sur,Comida,Tacos,1,102.44,102.44
+AGO0244,2023-08-18,Norte,Entrada,Pan de ajo,3,229.12,687.36
+AGO0245,2023-08-10,Norte,Comida,Pasta,5,135.26,676.3
+AGO0246,2023-08-23,Sur,Postre,Flan,3,87.95,263.85
+AGO0247,2023-08-07,Centro,Bebida,Refresco,3,243.81,731.43
+AGO0248,2023-08-25,Norte,Postre,Brownie,1,239.21,239.21
+AGO0249,2023-08-21,Este,Bebida,Agua,2,217.18,434.36
+AGO0250,2023-08-26,Oeste,Entrada,Nachos,4,101.35,405.4

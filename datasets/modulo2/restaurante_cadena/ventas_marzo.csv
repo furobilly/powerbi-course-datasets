@@ -1,0 +1,251 @@
+ID_Venta,Fecha,Sucursal,Categoría,Producto,Cantidad,Precio_Unitario,Total
+MAR0001,2023-03-29,Sur,Postre,Brownie,5,238.91,1194.55
+MAR0002,2023-03-26,Sur,Comida,Pasta,4,100.5,402.0
+MAR0003,2023-03-07,Oeste,Postre,Helado,3,31.67,95.01
+MAR0004,2023-03-21,Centro,Comida,Pasta,1,211.35,211.35
+MAR0005,2023-03-23,Norte,Entrada,Pan de ajo,1,136.53,136.53
+MAR0006,2023-03-04,Centro,Postre,Helado,1,89.21,89.21
+MAR0007,2023-03-11,Sur,Postre,Helado,1,116.8,116.8
+MAR0008,2023-03-25,Norte,Postre,Brownie,3,53.65,160.95
+MAR0009,2023-03-02,Oeste,Comida,Pizza,3,190.37,571.11
+MAR0010,2023-03-28,Centro,Bebida,Café,5,134.69,673.45
+MAR0011,2023-03-01,Centro,Bebida,Café,3,128.41,385.23
+MAR0012,2023-03-14,Centro,Comida,Pasta,2,88.47,176.94
+MAR0013,2023-03-13,Norte,Postre,Pastel,3,37.74,113.22
+MAR0014,2023-03-10,Oeste,Entrada,Aros de cebolla,1,165.46,165.46
+MAR0015,2023-03-07,Este,Entrada,Pan de ajo,2,43.23,86.46
+MAR0016,2023-03-01,Oeste,Comida,Tacos,2,109.42,218.84
+MAR0017,2023-03-22,Sur,Postre,Brownie,2,65.81,131.62
+MAR0018,2023-03-24,Oeste,Entrada,Aros de cebolla,3,42.84,128.52
+MAR0019,2023-03-25,Sur,Entrada,Aros de cebolla,3,148.56,445.68
+MAR0020,2023-03-15,Oeste,Bebida,Cerveza,3,138.4,415.2
+MAR0021,2023-03-14,Oeste,Postre,Flan,3,149.1,447.3
+MAR0022,2023-03-03,Oeste,Entrada,Aros de cebolla,3,205.25,615.75
+MAR0023,2023-03-03,Oeste,Postre,Helado,3,140.45,421.35
+MAR0024,2023-03-02,Sur,Comida,Hamburguesa,4,208.73,834.92
+MAR0025,2023-03-10,Centro,Comida,Pizza,1,235.17,235.17
+MAR0026,2023-03-08,Norte,Comida,Pizza,3,206.36,619.08
+MAR0027,2023-03-14,Centro,Bebida,Refresco,2,240.86,481.72
+MAR0028,2023-03-28,Sur,Postre,Flan,1,45.23,45.23
+MAR0029,2023-03-27,Este,Postre,Brownie,2,37.43,74.86
+MAR0030,2023-03-27,Oeste,Bebida,Refresco,3,92.46,277.38
+MAR0031,2023-03-04,Norte,Entrada,Aros de cebolla,4,159.02,636.08
+MAR0032,2023-03-13,Este,Entrada,Pan de ajo,2,247.9,495.8
+MAR0033,2023-03-18,Este,Entrada,Pan de ajo,3,203.54,610.62
+MAR0034,2023-03-22,Norte,Bebida,Refresco,5,58.54,292.7
+MAR0035,2023-03-24,Oeste,Postre,Flan,1,76.01,76.01
+MAR0036,2023-03-24,Norte,Bebida,Cerveza,1,185.66,185.66
+MAR0037,2023-03-04,Norte,Bebida,Refresco,5,57.78,288.9
+MAR0038,2023-03-14,Este,Comida,Tacos,1,167.29,167.29
+MAR0039,2023-03-04,Sur,Comida,Hamburguesa,4,144.31,577.24
+MAR0040,2023-03-02,Este,Entrada,Nachos,5,74.87,374.35
+MAR0041,2023-03-07,Este,Postre,Pastel,4,147.15,588.6
+MAR0042,2023-03-15,Sur,Comida,Ensalada,2,68.93,137.86
+MAR0043,2023-03-04,Oeste,Entrada,Aros de cebolla,3,100.59,301.77
+MAR0044,2023-03-26,Oeste,Postre,Brownie,2,59.85,119.7
+MAR0045,2023-03-10,Oeste,Comida,Tacos,1,61.34,61.34
+MAR0046,2023-03-25,Norte,Entrada,Aros de cebolla,5,227.92,1139.6
+MAR0047,2023-03-08,Este,Comida,Ensalada,2,41.68,83.36
+MAR0048,2023-03-24,Norte,Comida,Ensalada,4,68.62,274.48
+MAR0049,2023-03-19,Oeste,Bebida,Café,2,203.19,406.38
+MAR0050,2023-03-13,Norte,Bebida,Refresco,2,101.68,203.36
+MAR0051,2023-03-14,Este,Bebida,Café,1,223.94,223.94
+MAR0052,2023-03-20,Oeste,Postre,Pastel,2,170.88,341.76
+MAR0053,2023-03-29,Sur,Bebida,Cerveza,3,227.28,681.84
+MAR0054,2023-03-05,Norte,Bebida,Té,5,218.25,1091.25
+MAR0055,2023-03-04,Este,Postre,Flan,1,88.69,88.69
+MAR0056,2023-03-02,Norte,Entrada,Pan de ajo,4,193.61,774.44
+MAR0057,2023-03-08,Oeste,Bebida,Café,1,93.77,93.77
+MAR0058,2023-03-10,Este,Postre,Flan,5,220.4,1102.0
+MAR0059,2023-03-12,Oeste,Comida,Pizza,5,226.52,1132.6
+MAR0060,2023-03-28,Este,Entrada,Nachos,2,71.09,142.18
+MAR0061,2023-03-19,Oeste,Comida,Pizza,2,42.2,84.4
+MAR0062,2023-03-24,Norte,Entrada,Pan de ajo,1,230.35,230.35
+MAR0063,2023-03-26,Norte,Entrada,Pan de ajo,3,226.98,680.94
+MAR0064,2023-03-28,Norte,Bebida,Cerveza,1,62.83,62.83
+MAR0065,2023-03-27,Oeste,Postre,Brownie,1,190.42,190.42
+MAR0066,2023-03-24,Sur,Bebida,Cerveza,1,38.28,38.28
+MAR0067,2023-03-12,Oeste,Entrada,Pan de ajo,4,208.38,833.52
+MAR0068,2023-03-20,Oeste,Entrada,Aros de cebolla,3,180.39,541.17
+MAR0069,2023-03-28,Este,Postre,Helado,5,82.1,410.5
+MAR0070,2023-03-18,Sur,Comida,Hamburguesa,3,74.44,223.32
+MAR0071,2023-03-08,Oeste,Bebida,Café,5,171.99,859.95
+MAR0072,2023-03-04,Norte,Postre,Pastel,3,131.25,393.75
+MAR0073,2023-03-08,Centro,Bebida,Té,1,227.68,227.68
+MAR0074,2023-03-04,Sur,Bebida,Té,5,66.85,334.25
+MAR0075,2023-03-24,Sur,Comida,Hamburguesa,4,96.61,386.44
+MAR0076,2023-03-14,Centro,Bebida,Refresco,2,164.66,329.32
+MAR0077,2023-03-28,Este,Entrada,Aros de cebolla,5,48.18,240.9
+MAR0078,2023-03-20,Este,Comida,Pasta,2,242.83,485.66
+MAR0079,2023-03-11,Norte,Comida,Pizza,1,190.99,190.99
+MAR0080,2023-03-24,Este,Bebida,Refresco,4,220.68,882.72
+MAR0081,2023-03-18,Oeste,Entrada,Pan de ajo,1,60.72,60.72
+MAR0082,2023-03-02,Centro,Comida,Hamburguesa,4,54.8,219.2
+MAR0083,2023-03-26,Centro,Bebida,Cerveza,5,39.21,196.05
+MAR0084,2023-03-13,Este,Entrada,Nachos,5,189.06,945.3
+MAR0085,2023-03-01,Centro,Bebida,Cerveza,2,233.61,467.22
+MAR0086,2023-03-16,Norte,Postre,Helado,3,124.92,374.76
+MAR0087,2023-03-14,Oeste,Comida,Pizza,3,130.18,390.54
+MAR0088,2023-03-03,Norte,Comida,Pizza,3,198.16,594.48
+MAR0089,2023-03-29,Este,Comida,Hamburguesa,5,92.58,462.9
+MAR0090,2023-03-11,Sur,Bebida,Agua,5,219.17,1095.85
+MAR0091,2023-03-07,Norte,Bebida,Cerveza,4,161.19,644.76
+MAR0092,2023-03-19,Sur,Comida,Pasta,3,72.6,217.8
+MAR0093,2023-03-24,Norte,Entrada,Nachos,1,208.3,208.3
+MAR0094,2023-03-23,Este,Postre,Helado,5,201.43,1007.15
+MAR0095,2023-03-13,Centro,Comida,Hamburguesa,4,80.35,321.4
+MAR0096,2023-03-07,Oeste,Bebida,Agua,3,71.97,215.91
+MAR0097,2023-03-01,Norte,Postre,Flan,2,115.22,230.44
+MAR0098,2023-03-29,Centro,Comida,Tacos,2,237.13,474.26
+MAR0099,2023-03-08,Centro,Bebida,Café,4,234.64,938.56
+MAR0100,2023-03-19,Este,Postre,Helado,5,135.45,677.25
+MAR0101,2023-03-04,Centro,Postre,Pastel,5,66.6,333.0
+MAR0102,2023-03-19,Este,Entrada,Pan de ajo,1,188.74,188.74
+MAR0103,2023-03-14,Norte,Entrada,Pan de ajo,2,34.92,69.84
+MAR0104,2023-03-27,Sur,Bebida,Agua,1,146.83,146.83
+MAR0105,2023-03-12,Centro,Postre,Flan,2,239.64,479.28
+MAR0106,2023-03-27,Centro,Bebida,Agua,1,37.12,37.12
+MAR0107,2023-03-10,Este,Comida,Pasta,4,109.9,439.6
+MAR0108,2023-03-23,Oeste,Entrada,Aros de cebolla,3,123.1,369.3
+MAR0109,2023-03-18,Sur,Comida,Tacos,3,127.42,382.26
+MAR0110,2023-03-19,Sur,Postre,Brownie,2,215.57,431.14
+MAR0111,2023-03-24,Este,Entrada,Nachos,3,60.11,180.33
+MAR0112,2023-03-21,Centro,Entrada,Nachos,5,54.32,271.6
+MAR0113,2023-03-22,Centro,Comida,Pasta,2,56.98,113.96
+MAR0114,2023-03-24,Este,Entrada,Pan de ajo,4,80.57,322.28
+MAR0115,2023-03-28,Oeste,Postre,Pastel,4,137.58,550.32
+MAR0116,2023-03-07,Sur,Comida,Pasta,1,32.89,32.89
+MAR0117,2023-03-16,Centro,Entrada,Nachos,1,62.59,62.59
+MAR0118,2023-03-15,Oeste,Postre,Pastel,2,131.96,263.92
+MAR0119,2023-03-27,Centro,Comida,Ensalada,2,129.65,259.3
+MAR0120,2023-03-27,Centro,Entrada,Pan de ajo,1,80.42,80.42
+MAR0121,2023-03-19,Este,Postre,Flan,3,243.39,730.17
+MAR0122,2023-03-08,Centro,Postre,Helado,2,206.23,412.46
+MAR0123,2023-03-26,Norte,Bebida,Refresco,4,33.83,135.32
+MAR0124,2023-03-07,Oeste,Postre,Flan,4,128.3,513.2
+MAR0125,2023-03-13,Oeste,Postre,Brownie,1,36.53,36.53
+MAR0126,2023-03-06,Oeste,Comida,Tacos,2,73.77,147.54
+MAR0127,2023-03-16,Sur,Entrada,Nachos,4,210.97,843.88
+MAR0128,2023-03-27,Centro,Entrada,Aros de cebolla,2,126.1,252.2
+MAR0129,2023-03-02,Este,Postre,Pastel,2,145.42,290.84
+MAR0130,2023-03-11,Este,Comida,Hamburguesa,3,42.67,128.01
+MAR0131,2023-03-28,Oeste,Entrada,Aros de cebolla,3,52.04,156.12
+MAR0132,2023-03-02,Este,Comida,Hamburguesa,1,204.92,204.92
+MAR0133,2023-03-28,Centro,Entrada,Pan de ajo,3,132.82,398.46
+MAR0134,2023-03-09,Oeste,Comida,Tacos,5,158.82,794.1
+MAR0135,2023-03-26,Oeste,Comida,Pasta,3,196.6,589.8
+MAR0136,2023-03-02,Sur,Comida,Tacos,1,84.84,84.84
+MAR0137,2023-03-03,Oeste,Bebida,Refresco,5,86.21,431.05
+MAR0138,2023-03-21,Este,Comida,Pasta,5,95.48,477.4
+MAR0139,2023-03-08,Norte,Entrada,Pan de ajo,4,146.42,585.68
+MAR0140,2023-03-15,Centro,Comida,Pizza,4,131.91,527.64
+MAR0141,2023-03-25,Centro,Entrada,Aros de cebolla,3,162.66,487.98
+MAR0142,2023-03-13,Norte,Entrada,Aros de cebolla,2,240.2,480.4
+MAR0143,2023-03-16,Este,Entrada,Aros de cebolla,4,239.56,958.24
+MAR0144,2023-03-16,Sur,Postre,Helado,2,81.33,162.66
+MAR0145,2023-03-08,Oeste,Entrada,Nachos,5,76.41,382.05
+MAR0146,2023-03-01,Centro,Postre,Pastel,4,249.05,996.2
+MAR0147,2023-03-04,Norte,Comida,Tacos,4,66.33,265.32
+MAR0148,2023-03-16,Este,Comida,Pizza,5,132.8,664.0
+MAR0149,2023-03-14,Norte,Bebida,Refresco,1,49.59,49.59
+MAR0150,2023-03-28,Centro,Comida,Tacos,5,50.92,254.6
+MAR0151,2023-03-12,Oeste,Bebida,Agua,5,180.56,902.8
+MAR0152,2023-03-29,Este,Entrada,Nachos,1,227.44,227.44
+MAR0153,2023-03-08,Sur,Comida,Pasta,5,140.8,704.0
+MAR0154,2023-03-23,Sur,Comida,Hamburguesa,4,243.51,974.04
+MAR0155,2023-03-23,Este,Postre,Helado,1,65.36,65.36
+MAR0156,2023-03-21,Oeste,Postre,Helado,4,155.64,622.56
+MAR0157,2023-03-18,Norte,Postre,Brownie,5,235.15,1175.75
+MAR0158,2023-03-04,Este,Comida,Hamburguesa,1,87.09,87.09
+MAR0159,2023-03-29,Norte,Entrada,Aros de cebolla,1,134.12,134.12
+MAR0160,2023-03-02,Oeste,Bebida,Café,3,153.95,461.85
+MAR0161,2023-03-29,Norte,Entrada,Nachos,1,198.21,198.21
+MAR0162,2023-03-19,Norte,Entrada,Pan de ajo,3,209.77,629.31
+MAR0163,2023-03-29,Este,Entrada,Pan de ajo,2,228.84,457.68
+MAR0164,2023-03-13,Centro,Entrada,Pan de ajo,4,237.52,950.08
+MAR0165,2023-03-16,Centro,Postre,Pastel,2,159.55,319.1
+MAR0166,2023-03-26,Centro,Postre,Pastel,4,203.83,815.32
+MAR0167,2023-03-19,Norte,Postre,Brownie,5,39.68,198.4
+MAR0168,2023-03-08,Oeste,Bebida,Café,5,92.51,462.55
+MAR0169,2023-03-12,Centro,Bebida,Agua,3,189.03,567.09
+MAR0170,2023-03-21,Norte,Entrada,Pan de ajo,4,205.53,822.12
+MAR0171,2023-03-22,Sur,Postre,Pastel,4,224.65,898.6
+MAR0172,2023-03-06,Oeste,Entrada,Aros de cebolla,3,150.3,450.9
+MAR0173,2023-03-20,Sur,Entrada,Nachos,5,88.44,442.2
+MAR0174,2023-03-23,Oeste,Bebida,Refresco,2,127.67,255.34
+MAR0175,2023-03-19,Sur,Postre,Pastel,2,114.91,229.82
+MAR0176,2023-03-21,Norte,Bebida,Café,5,90.55,452.75
+MAR0177,2023-03-29,Sur,Comida,Pasta,2,242.89,485.78
+MAR0178,2023-03-06,Oeste,Entrada,Pan de ajo,2,183.27,366.54
+MAR0179,2023-03-24,Este,Comida,Ensalada,3,60.24,180.72
+MAR0180,2023-03-06,Este,Entrada,Nachos,5,247.93,1239.65
+MAR0181,2023-03-15,Centro,Comida,Ensalada,1,34.85,34.85
+MAR0182,2023-03-27,Oeste,Postre,Pastel,1,77.18,77.18
+MAR0183,2023-03-22,Norte,Bebida,Agua,5,175.46,877.3
+MAR0184,2023-03-28,Este,Bebida,Café,2,53.75,107.5
+MAR0185,2023-03-02,Centro,Entrada,Nachos,2,105.18,210.36
+MAR0186,2023-03-21,Este,Postre,Flan,1,152.38,152.38
+MAR0187,2023-03-19,Sur,Postre,Pastel,3,230.2,690.6
+MAR0188,2023-03-18,Oeste,Postre,Brownie,1,61.82,61.82
+MAR0189,2023-03-16,Norte,Comida,Ensalada,1,99.93,99.93
+MAR0190,2023-03-29,Este,Postre,Flan,5,36.22,181.1
+MAR0191,2023-03-15,Centro,Entrada,Nachos,4,133.41,533.64
+MAR0192,2023-03-08,Oeste,Bebida,Agua,5,160.8,804.0
+MAR0193,2023-03-23,Este,Comida,Pasta,1,149.03,149.03
+MAR0194,2023-03-07,Centro,Entrada,Pan de ajo,3,62.0,186.0
+MAR0195,2023-03-22,Norte,Entrada,Aros de cebolla,1,121.01,121.01
+MAR0196,2023-03-27,Sur,Postre,Helado,4,232.21,928.84
+MAR0197,2023-03-28,Norte,Entrada,Pan de ajo,5,175.9,879.5
+MAR0198,2023-03-22,Sur,Entrada,Pan de ajo,4,166.08,664.32
+MAR0199,2023-03-22,Sur,Entrada,Pan de ajo,1,98.72,98.72
+MAR0200,2023-03-23,Centro,Postre,Flan,1,245.36,245.36
+MAR0201,2023-03-25,Norte,Comida,Pasta,5,59.65,298.25
+MAR0202,2023-03-25,Este,Comida,Ensalada,2,248.83,497.66
+MAR0203,2023-03-09,Centro,Comida,Tacos,4,54.95,219.8
+MAR0204,2023-03-16,Oeste,Entrada,Pan de ajo,2,190.2,380.4
+MAR0205,2023-03-26,Este,Entrada,Nachos,2,122.67,245.34
+MAR0206,2023-03-23,Sur,Bebida,Refresco,3,143.23,429.69
+MAR0207,2023-03-03,Centro,Postre,Pastel,1,113.38,113.38
+MAR0208,2023-03-25,Sur,Comida,Pasta,5,174.33,871.65
+MAR0209,2023-03-01,Sur,Bebida,Agua,5,146.68,733.4
+MAR0210,2023-03-21,Este,Bebida,Refresco,4,94.53,378.12
+MAR0211,2023-03-20,Centro,Postre,Brownie,4,124.89,499.56
+MAR0212,2023-03-05,Sur,Postre,Brownie,1,87.67,87.67
+MAR0213,2023-03-04,Este,Postre,Brownie,4,220.34,881.36
+MAR0214,2023-03-02,Sur,Postre,Pastel,3,155.67,467.01
+MAR0215,2023-03-05,Centro,Bebida,Cerveza,5,201.88,1009.4
+MAR0216,2023-03-15,Sur,Entrada,Nachos,3,83.35,250.05
+MAR0217,2023-03-19,Este,Entrada,Aros de cebolla,2,202.32,404.64
+MAR0218,2023-03-26,Sur,Postre,Flan,4,41.92,167.68
+MAR0219,2023-03-11,Este,Postre,Helado,1,233.58,233.58
+MAR0220,2023-03-12,Sur,Bebida,Cerveza,2,56.05,112.1
+MAR0221,2023-03-01,Este,Bebida,Café,4,124.2,496.8
+MAR0222,2023-03-15,Oeste,Postre,Brownie,3,59.55,178.65
+MAR0223,2023-03-20,Norte,Comida,Ensalada,1,36.1,36.1
+MAR0224,2023-03-04,Sur,Postre,Pastel,5,50.31,251.55
+MAR0225,2023-03-21,Centro,Entrada,Nachos,5,31.35,156.75
+MAR0226,2023-03-06,Este,Comida,Ensalada,4,159.54,638.16
+MAR0227,2023-03-15,Norte,Entrada,Pan de ajo,1,58.13,58.13
+MAR0228,2023-03-15,Sur,Postre,Brownie,1,234.76,234.76
+MAR0229,2023-03-17,Sur,Entrada,Nachos,4,248.73,994.92
+MAR0230,2023-03-13,Norte,Bebida,Café,1,46.75,46.75
+MAR0231,2023-03-25,Este,Comida,Pizza,2,146.33,292.66
+MAR0232,2023-03-01,Este,Postre,Helado,5,124.62,623.1
+MAR0233,2023-03-11,Sur,Comida,Ensalada,2,151.9,303.8
+MAR0234,2023-03-19,Oeste,Postre,Helado,1,98.15,98.15
+MAR0235,2023-03-09,Sur,Bebida,Té,3,101.35,304.05
+MAR0236,2023-03-01,Sur,Postre,Pastel,4,36.92,147.68
+MAR0237,2023-03-11,Sur,Postre,Flan,4,92.75,371.0
+MAR0238,2023-03-05,Centro,Bebida,Cerveza,1,216.01,216.01
+MAR0239,2023-03-08,Sur,Bebida,Cerveza,4,63.92,255.68
+MAR0240,2023-03-07,Este,Entrada,Pan de ajo,1,236.82,236.82
+MAR0241,2023-03-21,Sur,Entrada,Aros de cebolla,2,198.11,396.22
+MAR0242,2023-03-10,Oeste,Bebida,Café,2,67.34,134.68
+MAR0243,2023-03-26,Este,Entrada,Pan de ajo,1,67.34,67.34
+MAR0244,2023-03-22,Centro,Postre,Pastel,1,174.11,174.11
+MAR0245,2023-03-12,Sur,Entrada,Nachos,3,211.87,635.61
+MAR0246,2023-03-02,Sur,Bebida,Refresco,2,115.05,230.1
+MAR0247,2023-03-11,Sur,Bebida,Agua,2,167.31,334.62
+MAR0248,2023-03-18,Oeste,Bebida,Agua,1,32.6,32.6
+MAR0249,2023-03-07,Sur,Comida,Ensalada,5,126.92,634.6
+MAR0250,2023-03-01,Sur,Comida,Ensalada,2,105.97,211.94
